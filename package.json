@@ -1,0 +1,18 @@
+{
+  "name": "nookcommunity-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv-safe": "^8.2.0",
+    "google-spreadsheet": "^3.0.10",
+    "lodash": "^4.17.15"
+  }
+}
