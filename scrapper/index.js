@@ -1,10 +1,11 @@
-const { GoogleSpreadsheet } = require('google-spreadsheet');
 const request = require('request-promise');
-const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
-const { camelCase, zipObject } = require('lodash');
 const axios = require('axios');
-const { googleApiKey, sourceSheetId } = require('../vars');
+const path = require('path');
+const fs = require('fs');
+const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { camelCase, zipObject, groupBy } = require('lodash');
+const { googleApiKey, sourceSheetId } = require('../config/vars');
 
 
 const doc = new GoogleSpreadsheet(sourceSheetId);
@@ -28,7 +29,7 @@ const fetchVariants = async (collections) => {
             variantItem.variant = variants;
         }
     }
-} 
+}
 
 const parseRawData = rawData => {
     const parsed = rawData.map(({ type, values }) => {
@@ -36,7 +37,7 @@ const parseRawData = rawData => {
             type,
             values: values.map(item => {
                 const { image, variant } = item
-                
+
                 if (image && image.includes("=image(\"")) {
                     item.image = image.replace("=image(\"", "").replace("\")", "");
                 }
@@ -64,7 +65,7 @@ const parseRawData = rawData => {
     fetchVariants(parsed)
 }
 
-exports.init = async () => {
+exports.scrapeGoogleDocs = async () => {
     await doc.useApiKey(googleApiKey);
     await doc.loadInfo();
 
@@ -90,4 +91,15 @@ exports.init = async () => {
     }
 
     parseRawData(mapped);
+}
+
+exports.scrapeLocalFiles = async () => {
+    const ItemParam = fs.readFileSync(path.join(__dirname, 'files/ItemParam.csv'), 'utf8').split('\n');
+    const keys = ItemParam.shift().split(',').map(key => camelCase(key));
+    const rows = ItemParam.slice(1).map(row => row.split(','));
+
+    const json = rows.map(row => zipObject(keys, row));
+    const categories = groupBy(json, 'category3');
+
+    json.length
 }

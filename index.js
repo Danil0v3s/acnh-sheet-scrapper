@@ -1,3 +1,3 @@
 const scrapper = require('./scrapper')
 
-scrapper.init();
+scrapper.scrapeLocalFiles();
