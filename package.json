@@ -11,8 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
     "dotenv-safe": "^8.2.0",
     "google-spreadsheet": "^3.0.10",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
   }
 }

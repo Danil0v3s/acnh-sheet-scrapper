@@ -1,0 +1,553 @@
+Primary key,Ingame name
+80,clackercart
+83,rocking horse
+88,ringtoss
+132,succulent plant
+144,manhole cover
+331,birdbath
+333,birdhouse
+343,tiki torch
+383,acoustic guitar
+530,grass standee
+531,hedge standee
+532,mountain standee
+533,tree standee
+665,wave breaker
+669,ukulele
+676,tall lantern
+677,deer scare
+682,boomerang
+710,bamboo bench
+722,hearth
+729,garden rock
+730,tall garden rock
+739,tea table
+805,mush lamp
+808,mush table
+865,birdcage
+880,wooden bucket
+891,holiday candle
+975,fruit basket
+1023,pile of leaves
+1032,magazine rack
+1054,moon
+1058,music stand
+1103,rocking chair
+1111,outdoor bath
+1120,scarecrow
+1157,brick oven
+1170,swinging bench
+1189,tire stack
+1241,DIY workbench
+1263,pear wardrobe
+1266,barrel
+1429,campfire
+1430,bonfire
+1439,asteroid
+1440,lunar lander
+1441,rocket
+1442,lunar rover
+1443,satellite
+1444,space shuttle
+1445,astronaut suit
+1447,flying saucer
+1504,giant teddy bear
+1509,robot hero
+1557,wooden-block bed
+1558,wooden-block bookshelf
+1559,wooden-block bench
+1561,wooden-block chest
+1565,wooden-block table
+1625,iron garden bench
+1626,iron garden chair
+1627,iron garden table
+1652,matryoshka
+1750,document stack
+1753,aroma pot
+1759,stack of books
+1797,decoy duck
+1799,doghouse
+1823,trash bags
+1861,stacked magazines
+1913,wooden chair
+2099,shovel
+2100,axe
+2319,drinking fountain
+2326,water pump
+2329,tire toy
+2376,flimsy net
+2377,fishing rod
+2379,watering can
+2544,star wand
+2553,iron frame
+2558,wooden-block chair
+2559,pot
+2560,wooden chest
+2578,pitfall seed
+2586,natural garden chair
+2596,juicy-apple TV
+2605,wooden simple bed
+2615,ladder
+2754,simple well
+2777,medicine
+2822,slingshot
+3065,gold bars
+3068,flimsy axe
+3080,brick fence
+3082,flimsy shovel
+3083,flimsy watering can
+3084,flimsy fishing rod
+3122,mini DIY workbench
+3191,ironwood table
+3193,ironwood chair
+3194,ironwood low table
+3195,ironwood cart
+3196,ironwood dresser
+3200,ironwood bed
+3205,wooden-block stereo
+3206,wooden-block toy
+3208,wooden-block wall clock
+3229,clothesline
+3270,ironwood kitchenette
+3271,ironwood cupboard
+3275,ironwood clock
+3288,orange dress
+3340,deer decoration
+3344,steamer-basket set
+3396,natural garden table
+3397,stone table
+3398,stone stool
+3402,vertical-board fence
+3403,bamboo lattice fence
+3406,beekeeper's hive
+3410,small cardboard boxes
+3411,medium cardboard boxes
+3412,large cardboard boxes
+3436,wooden wardrobe
+3438,wooden end table
+3439,wooden table
+3445,standard umbrella stand
+3446,western-style stone
+3449,wooden stool
+3472,golden toilet
+3473,golden seat
+3490,wooden waste bin
+3497,frozen table
+3498,frozen partition
+3499,frozen arch
+3500,frozen pillar
+3501,frozen sculpture
+3502,frozen bed
+3503,frozen chair
+3504,frozen tree
+3505,frozen counter
+3509,garden bench
+3551,bamboo shelf
+3553,bamboo partition
+3554,bamboo candleholder
+3555,bamboo doll
+3556,bamboo stopblock
+3557,bamboo floor lamp
+3558,bamboo wall decoration
+3559,iron wall lamp
+3560,iron worktable
+3561,iron hanger stand
+3562,iron wall rack
+3563,iron shelf
+3580,bonsai shelf
+3588,signpost
+3617,stall
+3618,cutting board
+3658,bamboo basket
+3675,hay bed
+3683,plain sink
+3684,coconut juice
+3689,sauna heater
+3692,plain wooden shop sign
+3772,golden candlestick
+3773,terrarium
+3774,Libra scale
+3775,hanging terrarium
+3776,brick well
+3785,potted ivy
+3802,pine bonsai tree
+3805,mush parasol
+3806,mush partition
+3808,mush log
+3810,golden dishes
+3819,oil-barrel bathtub
+3943,ironwood DIY workbench
+3966,big festive tree
+3975,orange end table
+3976,orange wall-mounted clock
+3977,shell arch
+3978,shell partition
+3979,shell stool
+3980,shell table
+3982,shell fountain
+3983,shell bed
+3984,shell lamp
+3991,festive tree
+3992,key holder
+4008,kettle bathtub
+4011,cherry speakers
+4012,cherry lamp
+4025,unglazed dish set
+4027,floral swag
+4034,scattered papers
+4035,log garden lounge
+4036,log decorative shelves
+4037,log wall-mounted clock
+4038,log stool
+4039,log sofa
+4040,log dining table
+4041,log bed
+4042,log bench
+4043,log round table
+4044,log extra-long sofa
+4066,illuminated tree
+4067,tabletop festive tree
+4073,classic pitcher
+4074,illuminated reindeer
+4075,gong
+4078,barbell
+4093,bamboo drum
+4104,frying pan
+4107,infused-water dispenser
+4108,illuminated present
+4124,wooden fish
+4125,wooden bookshelf
+4127,peach chair
+4128,peach surprise box
+4130,coconut wall planter
+4131,illuminated snowflakes
+4134,apple chair
+4269,green-leaf pile
+4270,yellow-leaf pile
+4271,red-leaf pile
+4279,frozen-treat set
+4293,cosmos wreath
+4309,destinations signpost
+4333,grass skirt
+4349,corral fence
+4350,country fence
+4352,rope fence
+4354,imperial fence
+4356,straw fence
+4357,iron fence
+4358,spiky fence
+4375,snowflake wreath
+4376,shell wreath
+4377,ornament wreath
+4378,fruit wreath
+4393,old-fashioned washtub
+4546,pear bed
+4549,fish bait
+4588,iron armor
+4590,gold armor
+4682,leaf
+4703,vaulting pole
+4708,mush low stool
+4726,mushroom wreath
+4727,tree branch wreath
+4751,bone doorplate
+4752,iron doorplate
+4797,basement flooring
+4801,steel-frame wall
+4804,brown herringbone wall
+4805,chocolate herringbone wall
+4813,rustic-stone wall
+4820,gold-screen wall
+4833,bamboo wall
+4837,classic-library wall
+4838,manga-library wall
+4840,cabin wall
+4844,stacked-wood wall
+4853,bamboo-grove wall
+4855,snowflake wall
+4858,wild-wood wall
+4859,wooden-mosaic wall
+4860,dark wooden-mosaic wall
+4865,honeycomb wall
+4894,golden wall
+4904,modern wood wall
+4905,autumn wall
+4911,wooden-knot wall
+4915,orange wall
+4916,apple wall
+4917,pear wall
+4918,peach wall
+4919,cherry wall
+4947,sakura-wood wall
+4960,steel flooring
+4964,bamboo flooring
+4968,lunar surface
+4970,sandy-beach flooring
+4979,backyard lawn
+4986,money flooring
+4989,ski-slope flooring
+4990,colored-leaves flooring
+4999,honeycomb flooring
+5021,golden flooring
+5030,water flooring
+5056,sakura-wood flooring
+5083,hyacinth wand
+5084,windflower wand
+5085,tulip wand
+5091,pansy wand
+5092,cosmos wand
+5093,rose wand
+5094,lily wand
+5095,mums wand
+5096,hyacinth crown
+5097,cool hyacinth crown
+5098,purple hyacinth crown
+5099,windflower crown
+5100,cool windflower crown
+5101,purple windflower crown
+5102,tulip crown
+5103,chic tulip crown
+5104,dark tulip crown
+5105,pansy crown
+5106,cool pansy crown
+5107,purple pansy crown
+5108,cosmos crown
+5109,lovely cosmos crown
+5110,dark cosmos crown
+5111,rose crown
+5112,cute rose crown
+5113,chic rose crown
+5114,lily crown
+5115,cute lily crown
+5116,dark lily crown
+5117,mum crown
+5118,chic mum crown
+5119,simple mum crown
+5143,bamboo hat
+5150,shell speaker
+5164,mush wall
+5166,campsite construction kit
+5206,iron-and-stone fence
+5207,zen fence
+5212,stone fence
+5213,barbed-wire fence
+5216,stone wall
+5223,woodland wall
+5229,garbage-heap wall
+5230,Jingle wall
+5236,garbage-heap flooring
+5253,iceberg flooring
+5268,underwater flooring
+5269,galaxy flooring
+5270,sci-fi flooring
+5275,orange hat
+5291,traditional straw coat
+5320,ocarina
+5334,knight's helmet
+5337,three-tiered snowperson
+5346,gold helmet
+5436,windflower wreath
+5437,rose wreath
+5457,jungle wall
+5466,pansy wreath
+5467,mum wreath
+5468,hyacinth wreath
+5472,armor shoes
+5498,ski-slope wall
+5500,starry-sky wall
+5505,ice wall
+5508,underwater wall
+5510,sci-fi wall
+5515,jungle flooring
+5516,ice flooring
+5517,pan flute
+5524,gold-armor shoes
+5528,starry wall
+5543,wooden-block stool
+5635,tiny library
+5636,wooden-plank sign
+5641,lily wreath
+5661,tropical vista
+5662,iceberg wall
+5670,tulip wreath
+5676,crewed spaceship
+5677,fancy lily wreath
+5716,paw-print doorplate
+5717,crest doorplate
+5718,timber doorplate
+5719,fossil doorplate
+5745,pretty cosmos wreath
+5746,cool windflower wreath
+5747,fancy rose wreath
+5748,snazzy pansy wreath
+5749,fancy mum wreath
+5750,cool hyacinth wreath
+5751,pretty tulip wreath
+5764,chic cosmos wreath
+5765,chic windflower wreath
+5766,dark rose wreath
+5767,cool pansy wreath
+5768,natural mum wreath
+5769,purple hyacinth wreath
+5770,dark lily wreath
+5771,dark tulip wreath
+5772,blue rose wreath
+5784,net
+5820,gold rose wreath
+5856,stone axe
+5931,jail bars
+5941,golden dung beetle
+5954,Aries rocking chair
+5955,Virgo harp
+5956,Aquarius urn
+5957,Capricorn ornament
+5958,Sagittarius arrow
+5959,Cancer table
+5960,Gemini closet
+5961,Taurus bathtub
+5962,Scorpio lamp
+5963,Pisces lamp
+5964,Leo sculpture
+5970,firewood
+5972,wild log bench
+5973,log stakes
+5975,traditional balancing toy
+5976,bamboo sphere
+5977,bamboo-shoot lamp
+5978,bamboo lunch box
+5979,bamboo noodle slide
+6030,cherry-blossom bonsai
+6031,cherry-blossom branches
+6032,cherry-blossom-petal pile
+6033,outdoor picnic set
+6075,tree's bounty mobile
+6078,tree's bounty lamp
+6079,tree's bounty little tree
+6080,tree's bounty big tree
+6081,tree's bounty arch
+6818,ornament mobile
+6826,nova light
+6827,starry garland
+6829,crescent-moon chair
+6831,blossom-viewing lantern
+6832,cherry-blossom clock
+6840,leaf umbrella
+6912,orange umbrella
+7045,recycled-can thumb piano
+7048,pile of zen cushions
+7132,wooden double bed
+7133,wooden mini table
+7134,wooden low table
+7137,wooden full-length mirror
+7142,simple DIY workbench
+7159,cardboard sofa
+7160,cardboard table
+7161,cardboard bed
+7163,cardboard chair
+7169,maple-leaf umbrella
+7174,mush umbrella
+7186,forest flooring
+7187,forest wall
+7204,cherry-blossom flooring
+7205,cherry-blossom-trees wall
+7211,bridge construction kit
+7230,cosmos shower
+7231,tulip surprise box
+7232,mum cushion
+7233,windflower fan
+7234,hyacinth lamp
+7235,rose bed
+7236,lily record player
+7237,pansy table
+7239,starry-sands flooring
+7247,silo
+7253,star clock
+7254,straw umbrella hat
+7258,modeling clay
+7259,palm-tree lamp
+7261,trophy case
+7281,sleigh
+7291,leaf mask
+7317,zen-style stone
+7327,apple rug
+7328,cherry rug
+7330,orange rug
+7331,peach rug
+7332,pear rug
+7362,shell rug
+7377,blue rose crown
+7378,gold rose crown
+7390,leaf stool
+7393,pond stone
+7408,maple-leaf pond stone
+7409,cherry-blossom pond stone
+7452,raccoon figurine
+7454,wooden toolbox
+7489,star pochette
+7490,cherry-blossom pochette
+7491,maple-leaf pochette
+7492,acorn pochette
+7493,snowflake pochette
+7494,shellfish pochette
+7498,log pack
+7506,basket pack
+7511,knitted-grass backpack
+7527,flower stand
+7535,kettlebell
+7584,wand
+7585,ice wand
+7586,shell wand
+7587,tree-branch wand
+7588,mushroom wand
+7589,cherry-blossom wand
+7590,bamboo wand
+7591,golden wand
+7592,iron wand
+7788,leaf campfire
+7795,stone lion-dog
+7805,butter churn
+7867,angled signpost
+8031,fountain
+8179,golden net
+8419,garden wagon
+8533,golden watering can
+8574,golden shovel
+8578,golden slingshot
+8609,snowperson head
+8660,golden rod
+8825,golden casket
+8826,wooden table mirror
+8907,green grass skirt
+9617,golden axe
+9642,iron closet
+9814,lucky gold cat
+9836,apple dress
+9837,pear dress
+9838,cherry dress
+9839,peach dress
+9862,star head
+9871,apple hat
+9872,pear hat
+9873,cherry hat
+9874,peach hat
+9945,cherry-blossom umbrella
+9947,peach umbrella
+9948,apple umbrella
+9949,cherry umbrella
+9950,pear umbrella
+10742,bamboo stool
+10743,bamboo speaker
+11113,light bamboo rug
+11114,dark bamboo rug
+11260,golden arowana model
+11261,golden gears
+11711,simple wooden fence
+11712,lattice fence
+11941,stone arch
+11942,street piano
+11943,stone tablet
+12206,flat garden rock
+12208,mossy garden rock
+12230,festive top set
+12326,recycled boots
+12332,natural square table
