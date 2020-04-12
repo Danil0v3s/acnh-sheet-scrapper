@@ -1,3 +1,3 @@
-const scrapper = require('./config/scrapper')
+const scrapper = require('./scrapper')
 
 scrapper.init();
