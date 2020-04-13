@@ -48,11 +48,14 @@ const fillItemsData = (items, fullItemDetails) => {
     });
 }
 
-exports.scrapeLocalFiles = async () => {
+exports.scrapeLocalFiles = async (mongoClient) => {
+    console.log('Starting parse');
+    const mongoCollection = mongoClient.db('nookcommunity').collection('items');
     const fullItemDetails = transformCsv('files/ItemParam.csv');
     const items = allItemsJson.results;
 
     fillItemsData(items, fullItemDetails);
 
-    fs.writeFileSync(path.join(__dirname, 'files/parsed.json'), JSON.stringify(groupBy(items, 'category')));
+    console.log('Parse finished. Saving...');
+    mongoCollection.insertMany(items);
 }
