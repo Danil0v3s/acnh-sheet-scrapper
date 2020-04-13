@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const allItemsJson = require('./files/items.json');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const { camelCase, zipObject, groupBy } = require('lodash');
+const { camelCase, zipObject, groupBy, map } = require('lodash');
 const { googleApiKey, sourceSheetId } = require('../config/vars');
 
 
@@ -66,12 +66,28 @@ const parseRawData = rawData => {
     fetchVariants(parsed)
 }
 
-const transformCsv = location => {
+const transformCsv = (location, kind = 'array') => {
     const file = fs.readFileSync(path.join(__dirname, location), 'utf8').split('\n');
     const keys = file.shift().split(',').map(key => camelCase(key));
     const rows = file.slice(1).map(row => row.split(','));
+    const arr = rows.map(row => zipObject(keys, row));
+    if (kind == 'object') {
+        return zipObject(map(arr, 'primaryKey'), map(arr, 'ingameName'))
+    }
 
-    return rows.map(row => zipObject(keys, row));
+    return arr
+}
+
+const mapCatchAndMuseumPhrases = json => {
+    return Object.keys(json).map(key => {
+        let obj = json[key];
+        return {
+            fileName: obj['file-name'],
+            name: obj.name['name-en'],
+            catchPhrase: obj['catch-phrase'],
+            museumPhrase: obj['museum-phrase']
+        }
+    })
 }
 
 exports.scrapeGoogleDocs = async () => {
@@ -104,9 +120,30 @@ exports.scrapeGoogleDocs = async () => {
 
 exports.scrapeLocalFiles = async () => {
     const recipes = transformCsv('files/Recipes.csv');
+    const materials = transformCsv('files/Materials.csv', 'object');
     const fullItemDetails = transformCsv('files/ItemParam.csv');
-    const catchPhrasesFish = transformCsv('files/SYS_Get_Fish.csv');
-    const catchPhrasesInsect = transformCsv('files/SYS_Get_Insect.csv');
+    const catchPhrasesFish = mapCatchAndMuseumPhrases(require('./files/fish_phrases.json'));
+    const catchPhrasesInsect = mapCatchAndMuseumPhrases(require('./files/bugs_phrases.json'));
+    const items = allItemsJson.results;
 
-    const categories = groupBy(fullItemDetails, 'category3');
+    items.forEach(item => {
+        const fullDetail = fullItemDetails.filter(i => camelCase(i.ingameName) == camelCase(item.name));
+        if (fullDetail.length == 1) {
+            item.id = fullDetail[0].primaryKey;
+            item.size = fullDetail[0].size;
+
+            if (item.category == "Bugs" || item.category == "Fish") {
+                const arr = item.category == "Bugs" ? catchPhrasesInsect : catchPhrasesFish
+                try {
+                    const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0]
+                    item.catchPhrase = catchPhrase
+                    item.museumPhrase = museumPhrase
+                } catch (e) {
+                    console.log(e, item.name)
+                }
+            }
+        }
+    });
+
+    items.length
 }

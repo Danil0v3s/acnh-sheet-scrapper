@@ -62026,7 +62026,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62060,7 +62060,7 @@
             "obtainedFrom": "On rotten turnips",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62106,7 +62106,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62140,7 +62140,7 @@
             "obtainedFrom": "Shaking trees (hardwood or cedar only)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62186,7 +62186,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -62220,7 +62220,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 8,
                 9
@@ -62246,7 +62246,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62272,7 +62272,7 @@
             "obtainedFrom": "On hardwood/cedar trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62298,7 +62298,7 @@
             "obtainedFrom": "From hitting rocks",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62340,7 +62340,7 @@
             "obtainedFrom": "Shaking trees (hardwood or cedar only)",
             "weather": "Any weather",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62366,7 +62366,7 @@
             "obtainedFrom": "On tree stumps",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62412,7 +62412,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62444,7 +62444,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62486,7 +62486,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 8,
                 9,
@@ -62514,7 +62514,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62540,7 +62540,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62570,7 +62570,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62606,7 +62606,7 @@
             "obtainedFrom": "On rivers/ponds",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -62638,7 +62638,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -62666,7 +62666,7 @@
             "obtainedFrom": "Pushing snowballs",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62694,7 +62694,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -62722,7 +62722,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62760,7 +62760,7 @@
             "obtainedFrom": "On hardwood/cedar trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62790,7 +62790,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5
             ],
@@ -62814,7 +62814,7 @@
             "obtainedFrom": "On villagers",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62852,7 +62852,7 @@
             "obtainedFrom": "Flying near trash (boots, tires, cans)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -62898,7 +62898,7 @@
             "obtainedFrom": "On hardwood/cedar trees",
             "weather": "Any weather",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62924,7 +62924,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -62950,7 +62950,7 @@
             "obtainedFrom": "On rivers/ponds",
             "weather": "Any weather",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -62984,7 +62984,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63010,7 +63010,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63036,7 +63036,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -63066,7 +63066,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -63094,7 +63094,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -63124,7 +63124,7 @@
             "obtainedFrom": "Disguised on shoreline",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -63170,7 +63170,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63202,7 +63202,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63228,7 +63228,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63254,7 +63254,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63280,7 +63280,7 @@
             "obtainedFrom": "On palm trees",
             "weather": "Any weather",
             "rarity": "Ultra-rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63306,7 +63306,7 @@
             "obtainedFrom": "On tree stumps",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -63338,7 +63338,7 @@
             "obtainedFrom": "On flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63370,7 +63370,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -63408,7 +63408,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -63442,7 +63442,7 @@
             "obtainedFrom": "On flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63480,7 +63480,7 @@
             "obtainedFrom": "On flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63520,7 +63520,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any weather",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 7,
                 8,
@@ -63550,7 +63550,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -63576,7 +63576,7 @@
             "obtainedFrom": "Underground (dig where noise is loudest)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -63612,7 +63612,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 8,
                 9,
@@ -63640,7 +63640,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -63670,7 +63670,7 @@
             "obtainedFrom": "Flying near light sources",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -63716,7 +63716,7 @@
             "obtainedFrom": "On white flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63756,7 +63756,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -63802,7 +63802,7 @@
             "obtainedFrom": "Flying near blue/purple/black flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -63832,7 +63832,7 @@
             "obtainedFrom": "From hitting rocks",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -63874,7 +63874,7 @@
             "obtainedFrom": "On rivers/ponds",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -63906,7 +63906,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -63938,7 +63938,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -63968,7 +63968,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64008,7 +64008,7 @@
             "obtainedFrom": "Flying",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 8,
                 9
@@ -64034,7 +64034,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 7,
                 8,
@@ -64064,7 +64064,7 @@
             "obtainedFrom": "On hardwood/cedar trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -64090,7 +64090,7 @@
             "obtainedFrom": "On tree stumps",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -64122,7 +64122,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -64148,7 +64148,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Rare",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7
@@ -64174,7 +64174,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -64208,7 +64208,7 @@
             "obtainedFrom": "On rocks",
             "weather": "Rain only",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64254,7 +64254,7 @@
             "obtainedFrom": "Shaking trees (hardwood or cedar only)",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64300,7 +64300,7 @@
             "obtainedFrom": "On flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -64338,7 +64338,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64372,7 +64372,7 @@
             "obtainedFrom": "On the ground",
             "weather": "Any except rain",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 1,
                 2,
@@ -64412,7 +64412,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -64448,7 +64448,7 @@
             "obtainedFrom": "On tree stumps",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -64480,7 +64480,7 @@
             "obtainedFrom": "On hardwood/cedar trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 7,
                 8
@@ -64506,7 +64506,7 @@
             "obtainedFrom": "Disguised under trees",
             "weather": "Any weather",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -64534,7 +64534,7 @@
             "obtainedFrom": "On trees (any kind)",
             "weather": "Any weather",
             "rarity": "Uncommon",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -64572,7 +64572,7 @@
             "obtainedFrom": "Shaking trees",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64618,7 +64618,7 @@
             "obtainedFrom": "On beach rocks",
             "weather": "Any weather",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64664,7 +64664,7 @@
             "obtainedFrom": "Flying near flowers",
             "weather": "Any except rain",
             "rarity": "Common",
-            "category": "Bugs - North",
+            "category": "Bugs",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -64697,7 +64697,7 @@
             "sell": 200,
             "obtainedFrom": "Sea",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64742,7 +64742,7 @@
             "sell": 3000,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -64775,7 +64775,7 @@
             "sell": 10000,
             "obtainedFrom": "River",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -64804,7 +64804,7 @@
             "sell": 10000,
             "obtainedFrom": "River",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -64833,7 +64833,7 @@
             "sell": 5000,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -64872,7 +64872,7 @@
             "sell": 15000,
             "obtainedFrom": "Sea",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64917,7 +64917,7 @@
             "sell": 2500,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -64950,7 +64950,7 @@
             "sell": 900,
             "obtainedFrom": "River",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -64981,7 +64981,7 @@
             "sell": 400,
             "obtainedFrom": "River",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65026,7 +65026,7 @@
             "sell": 5000,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65055,7 +65055,7 @@
             "sell": 10000,
             "obtainedFrom": "Pier",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65094,7 +65094,7 @@
             "sell": 180,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65139,7 +65139,7 @@
             "sell": 1000,
             "obtainedFrom": "Sea",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -65172,7 +65172,7 @@
             "sell": 300,
             "obtainedFrom": "Pond",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65217,7 +65217,7 @@
             "sell": 800,
             "obtainedFrom": "Pond",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -65250,7 +65250,7 @@
             "sell": 3800,
             "obtainedFrom": "River (clifftop)",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -65285,7 +65285,7 @@
             "sell": 1000,
             "obtainedFrom": "River (clifftop)",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -65320,7 +65320,7 @@
             "sell": 650,
             "obtainedFrom": "Sea",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -65353,7 +65353,7 @@
             "sell": 15000,
             "obtainedFrom": "Sea (raining)",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65398,7 +65398,7 @@
             "sell": 200,
             "obtainedFrom": "Pond",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -65431,7 +65431,7 @@
             "sell": 160,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65476,7 +65476,7 @@
             "sell": 300,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65511,7 +65511,7 @@
             "sell": 240,
             "obtainedFrom": "River",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65556,7 +65556,7 @@
             "sell": 15000,
             "obtainedFrom": "River",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -65585,7 +65585,7 @@
             "sell": 2500,
             "obtainedFrom": "Sea",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65616,7 +65616,7 @@
             "sell": 400,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65661,7 +65661,7 @@
             "sell": 120,
             "obtainedFrom": "Pond",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -65690,7 +65690,7 @@
             "sell": 6000,
             "obtainedFrom": "Pond",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -65719,7 +65719,7 @@
             "sell": 5500,
             "obtainedFrom": "Pond",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -65746,7 +65746,7 @@
             "sell": 4500,
             "obtainedFrom": "Pier",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -65779,7 +65779,7 @@
             "sell": 15000,
             "obtainedFrom": "River (clifftop)",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -65812,7 +65812,7 @@
             "sell": 1300,
             "obtainedFrom": "Pond",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65857,7 +65857,7 @@
             "sell": 15000,
             "obtainedFrom": "Sea",
             "shadow": "Largest\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -65886,7 +65886,7 @@
             "sell": 1300,
             "obtainedFrom": "River",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -65923,7 +65923,7 @@
             "sell": 8000,
             "obtainedFrom": "Sea",
             "shadow": "Largest\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -65952,7 +65952,7 @@
             "sell": 150,
             "obtainedFrom": "Sea",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -65997,7 +65997,7 @@
             "sell": 300,
             "obtainedFrom": "Pond",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -66028,7 +66028,7 @@
             "sell": 1800,
             "obtainedFrom": "River (mouth)",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 8
             ],
@@ -66051,7 +66051,7 @@
             "sell": 4000,
             "obtainedFrom": "Pond",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66096,7 +66096,7 @@
             "sell": 400,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -66123,7 +66123,7 @@
             "sell": 6000,
             "obtainedFrom": "Pier",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -66156,7 +66156,7 @@
             "sell": 2000,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 8,
                 9,
@@ -66183,7 +66183,7 @@
             "sell": 2000,
             "obtainedFrom": "Sea",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 7,
                 8,
@@ -66210,7 +66210,7 @@
             "sell": 10000,
             "obtainedFrom": "Sea",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 6,
                 7
@@ -66235,7 +66235,7 @@
             "sell": 500,
             "obtainedFrom": "River",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -66272,7 +66272,7 @@
             "sell": 1500,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -66303,7 +66303,7 @@
             "sell": 9000,
             "obtainedFrom": "Sea",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66336,7 +66336,7 @@
             "sell": 4000,
             "obtainedFrom": "Sea",
             "shadow": "Large\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -66363,7 +66363,7 @@
             "sell": 800,
             "obtainedFrom": "Sea",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66408,7 +66408,7 @@
             "sell": 200,
             "obtainedFrom": "River",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66453,7 +66453,7 @@
             "sell": 1800,
             "obtainedFrom": "River",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 8,
                 9,
@@ -66482,7 +66482,7 @@
             "sell": 2500,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -66515,7 +66515,7 @@
             "sell": 400,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66542,7 +66542,7 @@
             "sell": 1300,
             "obtainedFrom": "Pond",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66587,7 +66587,7 @@
             "sell": 250,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -66614,7 +66614,7 @@
             "sell": 800,
             "obtainedFrom": "River",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 4,
                 5,
@@ -66647,7 +66647,7 @@
             "sell": 4500,
             "obtainedFrom": "Pond",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66692,7 +66692,7 @@
             "sell": 3000,
             "obtainedFrom": "Sea",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 7,
                 8,
@@ -66721,7 +66721,7 @@
             "sell": 3000,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66766,7 +66766,7 @@
             "sell": 600,
             "obtainedFrom": "Sea",
             "shadow": "Narrow",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -66797,7 +66797,7 @@
             "sell": 4000,
             "obtainedFrom": "River",
             "shadow": "Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -66826,7 +66826,7 @@
             "sell": 700,
             "obtainedFrom": "River (mouth)",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 8
             ],
@@ -66849,7 +66849,7 @@
             "sell": 12000,
             "obtainedFrom": "Sea",
             "shadow": "Largest\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -66878,7 +66878,7 @@
             "sell": 400,
             "obtainedFrom": "Sea",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66923,7 +66923,7 @@
             "sell": 1000,
             "obtainedFrom": "Sea",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -66952,7 +66952,7 @@
             "sell": 1100,
             "obtainedFrom": "Sea",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -66989,7 +66989,7 @@
             "sell": 5000,
             "obtainedFrom": "River",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -67024,7 +67024,7 @@
             "sell": 3750,
             "obtainedFrom": "River",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 7,
                 8
@@ -67049,7 +67049,7 @@
             "sell": 500,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -67088,7 +67088,7 @@
             "sell": 15000,
             "obtainedFrom": "River (clifftop)",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -67117,7 +67117,7 @@
             "sell": 10000,
             "obtainedFrom": "River (mouth)",
             "shadow": "Largest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -67152,7 +67152,7 @@
             "sell": 1500,
             "obtainedFrom": "Sea",
             "shadow": "Large\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -67181,7 +67181,7 @@
             "sell": 1000,
             "obtainedFrom": "Sea",
             "shadow": "Small",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,
@@ -67214,7 +67214,7 @@
             "sell": 900,
             "obtainedFrom": "River",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 6,
                 7,
@@ -67241,7 +67241,7 @@
             "sell": 100,
             "obtainedFrom": "Pond",
             "shadow": "Smallest",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 2,
                 3,
@@ -67272,7 +67272,7 @@
             "sell": 800,
             "obtainedFrom": "River",
             "shadow": "",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -67303,7 +67303,7 @@
             "sell": 7000,
             "obtainedFrom": "Pier",
             "shadow": "Extra Large",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -67336,7 +67336,7 @@
             "sell": 13000,
             "obtainedFrom": "Sea",
             "shadow": "Largest\n(Fin)",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 5,
                 6,
@@ -67365,7 +67365,7 @@
             "sell": 300,
             "obtainedFrom": "River",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 0,
                 1,
@@ -67398,7 +67398,7 @@
             "sell": 500,
             "obtainedFrom": "Sea",
             "shadow": "Medium",
-            "category": "Fish - North",
+            "category": "Fish",
             "activeMonthsNorth": [
                 3,
                 4,

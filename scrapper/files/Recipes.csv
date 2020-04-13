@@ -1,553 +1,553 @@
-item name,Primary Key,,,,,Source,Personality,Rarity?,Qty Material 1,Qty Material 2,Qty Material 3,Qty Material 4,Qty Material 5,Qty Material 6,Material 1 Code,Material 2 Code,Material 3 Code,Material 4 Code,Material 5 Code,Material 6 Code,,
-juicy-apple TV,2596,6,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,10,2,0,0,0,0,2213,2511,65534,65534,65534,65534,1701,UNKNOWN
-pear wardrobe,1263,9,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,10,5,0,0,0,0,2285,2768,65534,65534,65534,65534,1600,UNKNOWN
-flimsy axe,3068,10,41,_UNK_,_UNK_,"('RcoDonationRewardA', 'たぬきち虫魚報酬A')",Not from Villagers,0,5,1,0,0,0,0,2500,2502,65534,65534,65534,65534,100,UNKNOWN
-campfire,1429,13,42,_UNK_,_UNK_,"('DIYtutorial2', 'DIY体験会報酬')",Not from Villagers,0,3,0,0,0,0,0,2500,65534,65534,65534,65534,65534,200,UNKNOWN
-doghouse,1799,14,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,10,7,0,0,0,0,2768,2769,65534,65534,65534,65534,430,UNKNOWN
-wooden chair,1913,15,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Snooty,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534,311,UNKNOWN
-wooden bucket,880,16,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Smug,0,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534,432,UNKNOWN
-wooden chest,2560,17,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,16,0,0,0,0,0,2768,65534,65534,65534,65534,65534,317,UNKNOWN
-wooden simple bed,2605,18,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Lazy,0,18,0,0,0,0,0,2768,65534,65534,65534,65534,65534,318,UNKNOWN
-flimsy shovel,3082,19,41,_UNK_,_UNK_,Blathers,Not from Villagers,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534,103,UNKNOWN
-flimsy watering can,3083,20,41,_UNK_,_UNK_,"('RcoDonationRewardB', 'たぬきち虫魚報酬B')",Not from Villagers,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534,109,UNKNOWN
-flimsy fishing rod,3084,21,41,_UNK_,_UNK_,"('DIYtutorial1', 'DIY体験会')",Not from Villagers,0,5,0,0,0,0,0,2500,65534,65534,65534,65534,65534,105,UNKNOWN
-flimsy net,2376,22,41,_UNK_,_UNK_,"('DIYtutorial2', 'DIY体験会報酬')",Not from Villagers,0,5,0,0,0,0,0,2500,65534,65534,65534,65534,65534,107,UNKNOWN
-wooden-block bench,1559,23,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,1,4,0,0,0,0,3206,2767,65534,65534,65534,65534,353,UNKNOWN
-wooden-block chest,1561,24,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,1,12,0,0,0,0,3206,2767,65534,65534,65534,65534,355,UNKNOWN
-wooden-block table,1565,26,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Uchi,0,1,8,0,0,0,0,3206,2767,65534,65534,65534,65534,354,UNKNOWN
-slingshot,2822,29,41,_UNK_,_UNK_,"('Market', '＜店売り＞')",Not from Villagers,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534,111,UNKNOWN
-aroma pot,1753,30,16,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,3,0,0,0,0,0,3090,65534,65534,65534,65534,65534,704,UNKNOWN
-mush table,808,32,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,2,6,0,0,0,0,3279,2768,65534,65534,65534,65534,3003,UNKNOWN
-tea table,739,33,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,12,0,0,0,0,0,2769,65534,65534,65534,65534,65534,400,UNKNOWN
-bonfire,1430,34,42,_UNK_,_UNK_,"('RcoDonationRewardA', 'たぬきち虫魚報酬A')",Cranky,0,1,10,0,0,0,0,1429,2768,65534,65534,65534,65534,201,UNKNOWN
-ironwood table,3191,35,15,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,12,6,0,0,0,0,2768,2511,65534,65534,65534,65534,1003,UNKNOWN
-simple well,2754,36,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,15,1,0,0,0,0,2502,3082,65534,65534,65534,65534,811,UNKNOWN
-pot,2559,37,16,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Cranky,0,5,0,0,0,0,0,3090,65534,65534,65534,65534,65534,703,UNKNOWN
-wooden-block toy,3206,38,42,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534,350,UNKNOWN
-birdhouse,333,41,42,_UNK_,_UNK_,"('RcoDonationRewardA', 'たぬきち虫魚報酬A')",Peppy,0,2,5,0,0,0,0,2768,2767,65534,65534,65534,65534,435,UNKNOWN
-birdbath,331,42,17,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Snooty,0,6,0,0,0,0,0,2502,65534,65534,65534,65534,65534,802,UNKNOWN
-ringtoss,88,43,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,2,2,0,0,0,0,2768,2767,65534,65534,65534,65534,460,UNKNOWN
-acoustic guitar,383,44,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,8,3,0,0,0,0,2767,2511,65534,65534,65534,65534,406,UNKNOWN
-ukulele,669,45,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534,462,UNKNOWN
-bamboo bench,710,46,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,50,8,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2401,UNKNOWN
-garden rock,729,48,17,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,15,0,0,0,0,0,2502,65534,65534,65534,65534,65534,805,UNKNOWN
-tall garden rock,730,49,17,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,60,0,0,0,0,0,2502,65534,65534,65534,65534,65534,808,UNKNOWN
-mush lamp,805,51,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,1,5,0,0,0,0,3278,3090,65534,65534,65534,65534,3006,UNKNOWN
-wave breaker,665,55,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,10,10,0,0,0,0,2502,3090,65534,65534,65534,65534,813,UNKNOWN
-fruit basket,975,56,46,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,1,1,1,1,1,0,2213,2285,2287,2214,2286,65534,1900,UNKNOWN
-rocking chair,1103,57,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,3,5,0,0,0,0,2768,2767,65534,65534,65534,65534,376,UNKNOWN
-brick oven,1157,58,16,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,8,2,6,0,0,0,3090,2511,2768,65534,65534,65534,706,UNKNOWN
-swinging bench,1170,59,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,5,7,0,0,0,0,2768,2767,65534,65534,65534,65534,377,UNKNOWN
-tire stack,1189,60,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,3,0,0,0,0,0,3470,65534,65534,65534,65534,65534,602,UNKNOWN
-wooden-block bed,1557,61,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,1,17,0,0,0,0,3206,2767,65534,65534,65534,65534,356,UNKNOWN
-wooden-block bookshelf,1558,62,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,1,3,0,0,0,0,3206,2767,65534,65534,65534,65534,357,UNKNOWN
-iron garden bench,1625,63,45,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534,902,UNKNOWN
-iron garden chair,1626,64,45,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Uchi,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534,900,UNKNOWN
-iron garden table,1627,65,45,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Uchi,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534,901,UNKNOWN
-trash bags,1823,66,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,1,1,1,0,0,0,3466,3469,3470,65534,65534,65534,603,UNKNOWN
-drinking fountain,2319,77,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,8,2,0,0,0,0,2502,2511,65534,65534,65534,65534,803,UNKNOWN
-tire toy,2329,78,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,1,0,0,0,0,0,3470,65534,65534,65534,65534,65534,601,UNKNOWN
-iron frame,2553,79,45,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,20,0,0,0,0,0,2511,65534,65534,65534,65534,65534,915,UNKNOWN
-natural garden chair,2586,80,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Peppy,0,6,2,0,0,0,0,2769,2511,65534,65534,65534,65534,373,UNKNOWN
-gold bars,3065,81,47,_UNK_,_UNK_,"('None', '※未設定')",Snooty,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1100,UNKNOWN
-mini DIY workbench,3122,82,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,3,3,3,2,0,0,2768,2769,2767,2511,65534,65534,301,UNKNOWN
-ironwood chair,3193,83,15,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,3,2,0,0,0,0,2768,2511,65534,65534,65534,65534,1000,UNKNOWN
-ironwood low table,3194,84,15,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,6,4,0,0,0,0,2768,2511,65534,65534,65534,65534,1004,UNKNOWN
-ironwood cart,3195,85,15,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,6,4,0,0,0,0,2768,2511,65534,65534,65534,65534,1001,UNKNOWN
-ironwood dresser,3196,86,15,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,7,4,0,0,0,0,2768,2511,65534,65534,65534,65534,1002,UNKNOWN
-ironwood bed,3200,87,15,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,20,10,0,0,0,0,2768,2511,65534,65534,65534,65534,1005,UNKNOWN
-wooden-block stereo,3205,89,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,1,5,2,0,0,0,3206,2767,2511,65534,65534,65534,358,UNKNOWN
-wooden-block wall clock,3208,90,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,50,1,2,1,0,0,0,3206,2767,2511,65534,65534,65534,359,UNKNOWN
-ironwood kitchenette,3270,91,15,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,4,3,1,1,0,0,2768,2511,3196,3618,65534,65534,1007,UNKNOWN
-ironwood cupboard,3271,92,15,_UNK_,_UNK_,"('None', '※未設定')",Snooty,100,12,6,1,0,0,0,2768,2511,3196,65534,65534,65534,1006,UNKNOWN
-ironwood clock,3275,94,15,_UNK_,_UNK_,"('None', '※未設定')",Smug,50,2,2,0,0,0,0,2768,2511,65534,65534,65534,65534,1040,UNKNOWN
-brick fence,3080,99,16,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,3090,65534,65534,65534,65534,65534,790,UNKNOWN
-vertical-board fence,3402,100,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534,581,UNKNOWN
-bamboo lattice fence,3403,101,14,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2490,UNKNOWN
-rocking horse,83,102,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534,403,UNKNOWN
-tiki torch,343,103,42,_UNK_,_UNK_,"('RcoDonationRewardA', 'たぬきち虫魚報酬A')",Cranky,0,5,5,0,0,0,0,2500,2768,65534,65534,65534,65534,202,UNKNOWN
-stone stool,3398,104,17,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,3,0,0,0,0,0,2502,65534,65534,65534,65534,65534,800,UNKNOWN
-stone table,3397,105,17,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Lazy,0,8,0,0,0,0,0,2502,65534,65534,65534,65534,65534,801,UNKNOWN
-ladder,2615,107,41,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Not from Villagers,0,4,4,4,0,0,0,2768,2769,2767,65534,65534,65534,122,UNKNOWN
-log extra-long sofa,4044,110,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,2,0,0,0,0,0,4039,65534,65534,65534,65534,65534,337,UNKNOWN
-log round table,4043,111,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534,334,UNKNOWN
-log bench,4042,112,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Normal,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534,331,UNKNOWN
-log garden lounge,4035,113,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Peppy,0,12,0,0,0,0,0,2769,65534,65534,65534,65534,65534,335,UNKNOWN
-log decorative shelves,4036,114,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,2,3,0,0,0,0,4042,2769,65534,65534,65534,65534,339,UNKNOWN
-log wall-mounted clock,4037,115,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,50,2,1,0,0,0,0,2769,2511,65534,65534,65534,65534,340,UNKNOWN
-log stool,4038,116,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Peppy,0,4,0,0,0,0,0,2769,65534,65534,65534,65534,65534,330,UNKNOWN
-log sofa,4039,117,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534,336,UNKNOWN
-log dining table,4040,118,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Cranky,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534,333,UNKNOWN
-log bed,4041,119,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Peppy,0,30,0,0,0,0,0,2769,65534,65534,65534,65534,65534,338,UNKNOWN
-unglazed dish set,4025,120,16,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,3,0,0,0,0,0,3090,65534,65534,65534,65534,65534,701,UNKNOWN
-floral swag,4027,121,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,50,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1230,UNKNOWN
-iron wall lamp,3559,122,45,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,4,2,0,0,0,0,2511,3090,65534,65534,65534,65534,930,UNKNOWN
-iron wall rack,3562,123,45,_UNK_,_UNK_,"('None', '※未設定')",Smug,50,3,1,0,0,0,0,2511,3090,65534,65534,65534,65534,931,UNKNOWN
-garden bench,3509,124,15,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,12,4,0,0,0,0,2768,2511,65534,65534,65534,65534,1009,UNKNOWN
-ironwood DIY workbench,3943,125,15,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,12,6,1,0,0,0,2768,2511,3122,65534,65534,65534,1008,UNKNOWN
-iron worktable,3560,126,45,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,10,0,0,0,0,0,2511,65534,65534,65534,65534,65534,903,UNKNOWN
-iron shelf,3563,128,45,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,14,0,0,0,0,0,2511,65534,65534,65534,65534,65534,905,UNKNOWN
-golden candlestick,3772,130,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,2,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1102,UNKNOWN
-golden dishes,3810,131,47,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,1,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1101,UNKNOWN
-Libra scale,3774,132,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,0,0,0,5983,5994,2505,65534,65534,65534,2306,UNKNOWN
-golden seat,3473,133,47,_UNK_,_UNK_,"('None', '※未設定')",Snooty,200,5,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1103,UNKNOWN
-mush log,3808,136,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,2,1,0,0,0,0,3278,4038,65534,65534,65534,65534,3001,UNKNOWN
-mush partition,3806,138,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,3,0,0,0,0,0,3278,65534,65534,65534,65534,65534,3008,UNKNOWN
-mush parasol,3805,139,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,3,0,0,0,0,0,3279,65534,65534,65534,65534,65534,3007,UNKNOWN
-frozen arch,3499,140,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,10,0,0,0,0,3540,3539,65534,65534,65534,65534,3206,UNKNOWN
-frozen sculpture,3501,141,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,4,0,0,0,0,3540,3539,65534,65534,65534,65534,3208,UNKNOWN
-frozen chair,3503,142,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,3,0,0,0,0,3540,3539,65534,65534,65534,65534,3201,UNKNOWN
-frozen counter,3505,143,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,5,0,0,0,0,3540,3539,65534,65534,65534,65534,3202,UNKNOWN
-frozen tree,3504,145,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534,3209,UNKNOWN
-frozen table,3497,146,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534,3203,UNKNOWN
-frozen partition,3498,147,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,6,0,0,0,0,3540,3539,65534,65534,65534,65534,3205,UNKNOWN
-frozen pillar,3500,148,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,3,0,0,0,0,3540,3539,65534,65534,65534,65534,3207,UNKNOWN
-frozen bed,3502,149,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,10,0,0,0,0,3540,3539,65534,65534,65534,65534,3204,UNKNOWN
-bamboo wall decoration,3558,151,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,50,1,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2430,UNKNOWN
-bamboo basket,3658,152,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,7,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2409,UNKNOWN
-bamboo candleholder,3554,153,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,3,2,0,0,0,0,2501,3090,65534,65534,65534,65534,2402,UNKNOWN
-bamboo stopblock,3556,154,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,50,3,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2412,UNKNOWN
-bamboo shelf,3551,155,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2405,UNKNOWN
-bamboo partition,3553,157,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,7,6,0,0,0,0,2501,2502,65534,65534,65534,65534,2403,UNKNOWN
-bamboo doll,3555,158,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534,2500,UNKNOWN
-bamboo floor lamp,3557,159,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,50,8,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2410,UNKNOWN
-wooden-block chair,2558,160,42,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,1,3,0,0,0,0,3206,2767,65534,65534,65534,65534,352,UNKNOWN
-cherry speakers,4011,161,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,10,2,0,0,0,0,2287,2511,65534,65534,65534,65534,1400,UNKNOWN
-cherry lamp,4012,162,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,10,2,0,0,0,0,2287,3090,65534,65534,65534,65534,1430,UNKNOWN
-coconut juice,3684,163,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,1,0,0,0,0,0,2288,65534,65534,65534,65534,65534,1800,UNKNOWN
-clackercart,80,164,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,2,6,0,0,0,0,2769,2767,65534,65534,65534,65534,402,UNKNOWN
-barrel,1266,165,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Cranky,0,5,2,0,0,0,0,2768,2511,65534,65534,65534,65534,431,UNKNOWN
-plain wooden shop sign,3692,166,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534,372,UNKNOWN
-hay bed,3675,167,14,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,20,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1200,UNKNOWN
-wooden stool,3449,168,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,4,0,0,0,0,0,2768,65534,65534,65534,65534,65534,310,UNKNOWN
-standard umbrella stand,3445,169,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534,907,UNKNOWN
-wooden end table,3438,170,42,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534,313,UNKNOWN
-boomerang,682,171,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,50,3,0,0,0,0,0,2769,65534,65534,65534,65534,65534,481,UNKNOWN
-wooden wardrobe,3436,172,42,_UNK_,_UNK_,"('RemakeTutorial', 'リメイク体験')",Not from Villagers,0,12,0,0,0,0,0,2768,65534,65534,65534,65534,65534,316,UNKNOWN
-wooden waste bin,3490,173,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,4,0,0,0,0,0,2768,65534,65534,65534,65534,65534,322,UNKNOWN
-plain sink,3683,174,42,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,6,4,1,0,0,0,2768,3090,2511,65534,65534,65534,371,UNKNOWN
-shell arch,3977,175,46,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,3,3,3,3,3,3,1374,1375,1379,1380,1381,1382,2705,UNKNOWN
-shell partition,3978,176,46,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,4,4,0,0,0,0,1375,1376,65534,65534,65534,65534,2704,UNKNOWN
-shell stool,3979,177,46,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,5,0,0,0,0,0,1382,65534,65534,65534,65534,65534,2700,UNKNOWN
-shell table,3980,178,46,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,7,3,0,0,0,0,1379,3090,65534,65534,65534,65534,2702,UNKNOWN
-shell fountain,3982,180,46,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,5,3,0,0,0,0,1381,2502,65534,65534,65534,65534,2701,UNKNOWN
-shell bed,3983,181,46,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,5,3,4,0,0,0,1381,3090,2502,65534,65534,65534,2703,UNKNOWN
-shell lamp,3984,182,46,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,2,3,0,0,0,0,1381,3090,65534,65534,65534,65534,2706,UNKNOWN
-vaulting pole,4703,183,41,_UNK_,_UNK_,Blathers,Not from Villagers,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534,121,UNKNOWN
-orange wall-mounted clock,3976,184,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,10,2,0,0,0,0,2214,2768,65534,65534,65534,65534,1330,UNKNOWN
-orange end table,3975,185,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,10,4,0,0,0,0,2214,2768,65534,65534,65534,65534,1300,UNKNOWN
-pear bed,4546,186,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,10,6,0,0,0,0,2285,2767,65534,65534,65534,65534,1601,UNKNOWN
-peach chair,4127,187,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,10,5,0,0,0,0,2286,2768,65534,65534,65534,65534,1500,UNKNOWN
-peach surprise box,4128,188,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,10,4,0,0,0,0,2286,2767,65534,65534,65534,65534,1501,UNKNOWN
-apple chair,4134,189,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,10,4,0,0,0,0,2213,2768,65534,65534,65534,65534,1700,UNKNOWN
-succulent plant,132,190,14,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,10,1,0,0,0,0,2624,3466,65534,65534,65534,65534,1201,UNKNOWN
-fish bait,4549,191,46,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,1,0,0,0,0,0,2567,65534,65534,65534,65534,65534,131,UNKNOWN
-classic pitcher,4073,192,16,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Snooty,0,4,0,0,0,0,0,3090,65534,65534,65534,65534,65534,702,UNKNOWN
-wooden fish,4124,193,42,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534,463,UNKNOWN
-frozen-treat set,4279,194,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,1,0,0,0,0,3540,3539,65534,65534,65534,65534,3200,UNKNOWN
-old-fashioned washtub,4393,195,42,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534,464,UNKNOWN
-stack of books,1759,196,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,5,0,0,0,0,0,3582,65534,65534,65534,65534,65534,2100,UNKNOWN
-stacked magazines,1861,197,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,6,0,0,0,0,0,3586,65534,65534,65534,65534,65534,2111,UNKNOWN
-frying pan,4104,199,45,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,2,0,0,0,0,0,2511,65534,65534,65534,65534,65534,908,UNKNOWN
-shell speaker,5150,200,46,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,3,2,0,0,0,0,1376,2511,65534,65534,65534,65534,2707,UNKNOWN
-wooden table,3439,201,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534,315,UNKNOWN
-illuminated tree,4066,203,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,8,8,6,6,0,0,5730,5731,5732,2511,65534,65534,3410,UNKNOWN
-beekeeper's hive,3406,204,43,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,3,5,0,0,0,0,3263,2768,65534,65534,65534,65534,2000,UNKNOWN
-signpost,3588,213,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,2,3,0,0,0,0,2769,2767,65534,65534,65534,65534,439,UNKNOWN
-potted ivy,3785,214,14,_UNK_,_UNK_,"('DIYbook2', 'DIYレシピブック2')",Not from Villagers,0,5,5,0,0,0,0,2624,3090,65534,65534,65534,65534,1231,UNKNOWN
-music stand,1058,215,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534,405,UNKNOWN
-birdcage,865,216,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534,404,UNKNOWN
-hearth,722,217,14,_UNK_,_UNK_,"('DIYbook3', 'DIYレシピブック3')",Not from Villagers,0,2,5,4,5,0,0,2501,2511,3090,2769,65534,65534,2407,UNKNOWN
-ocarina,5320,218,16,_UNK_,_UNK_,"('DIYbook1', 'DIYレシピブック1')",Not from Villagers,0,5,0,0,0,0,0,3090,65534,65534,65534,65534,65534,133,UNKNOWN
-shell wreath,4376,219,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,1,1,1,1,1,1,5982,1374,1379,1380,1381,1382,2840,UNKNOWN
-mush low stool,4708,220,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,2,0,0,0,0,0,3277,65534,65534,65534,65534,65534,3000,UNKNOWN
-mushroom wreath,4726,221,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,10,1,1,1,0,0,2500,3277,3278,3279,65534,65534,3040,UNKNOWN
-snowflake wreath,4375,222,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,4,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3340,UNKNOWN
-fruit wreath,4378,223,46,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,2,1,3,3,1,0,2213,2285,2287,2214,2286,65534,1940,UNKNOWN
-natural garden table,3396,224,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Normal,0,9,3,0,0,0,0,2769,2511,65534,65534,65534,65534,375,UNKNOWN
-tree branch wreath,4727,225,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,50,10,0,0,0,0,0,2500,65534,65534,65534,65534,65534,240,UNKNOWN
-ornament wreath,4377,226,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,6,2,0,0,0,0,5731,5732,65534,65534,65534,65534,3440,UNKNOWN
-cosmos wreath,4293,227,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,2863,2305,2304,65534,65534,65534,3546,UNKNOWN
-windflower wreath,5436,228,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,3723,3709,3713,65534,65534,65534,3540,UNKNOWN
-rose wreath,5437,229,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,2935,2931,2939,65534,65534,65534,3552,UNKNOWN
-pansy wreath,5466,230,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,2915,2907,2911,65534,65534,65534,3557,UNKNOWN
-mum wreath,5467,231,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,3754,3758,3768,65534,65534,65534,3543,UNKNOWN
-hyacinth wreath,5468,232,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,3730,3744,3734,65534,65534,65534,3560,UNKNOWN
-flying saucer,1447,233,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,15,10,0,0,0,0,5983,2511,65534,65534,65534,65534,2227,UNKNOWN
-moon,1054,234,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,15,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2202,UNKNOWN
-asteroid,1439,235,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,10,0,0,0,0,5983,2502,65534,65534,65534,65534,2203,UNKNOWN
-astronaut suit,1445,236,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,5,0,0,0,0,5983,2511,65534,65534,65534,65534,2220,UNKNOWN
-hyacinth crown,5096,237,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,4,2,2,0,0,0,3744,3734,3730,65534,65534,65534,3620,UNKNOWN
-cool hyacinth crown,5097,238,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,4,2,2,0,0,0,3748,3738,3741,65534,65534,65534,3621,UNKNOWN
-purple hyacinth crown,5098,239,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,3751,65534,65534,65534,65534,65534,3622,UNKNOWN
-windflower crown,5099,240,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,3723,3713,3709,65534,65534,65534,3600,UNKNOWN
-cool windflower crown,5100,241,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,0,0,0,0,3717,3720,65534,65534,65534,65534,3601,UNKNOWN
-purple windflower crown,5101,242,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,3727,65534,65534,65534,65534,65534,3602,UNKNOWN
-tulip crown,5102,243,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,1,0,0,0,2883,2887,2879,65534,65534,65534,3609,UNKNOWN
-chic tulip crown,5103,244,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,2,2,1,0,0,0,2899,2891,2895,65534,65534,65534,3610,UNKNOWN
-dark tulip crown,5104,245,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,5,0,0,0,0,0,2903,65534,65534,65534,65534,65534,3611,UNKNOWN
-pansy crown,5105,246,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,2911,2915,2907,65534,65534,65534,3617,UNKNOWN
-cool pansy crown,5106,247,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,0,0,0,0,2919,2927,65534,65534,65534,65534,3618,UNKNOWN
-purple pansy crown,5107,248,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,2923,65534,65534,65534,65534,65534,3619,UNKNOWN
-cosmos crown,5108,249,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,2304,2863,2305,65534,65534,65534,3606,UNKNOWN
-lovely cosmos crown,5109,250,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,4,3,0,0,0,0,2867,2871,65534,65534,65534,65534,3607,UNKNOWN
-dark cosmos crown,5110,251,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,7,0,0,0,0,0,2875,65534,65534,65534,65534,65534,3608,UNKNOWN
-rose crown,5111,252,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,2935,2939,2931,65534,65534,65534,3612,UNKNOWN
-cute rose crown,5112,253,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,0,0,0,0,2943,2947,65534,65534,65534,65534,3613,UNKNOWN
-chic rose crown,5113,254,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,3,3,0,0,0,0,2951,2955,65534,65534,65534,65534,3614,UNKNOWN
-lily crown,5114,255,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,2983,2987,2979,65534,65534,65534,3623,UNKNOWN
-cute lily crown,5115,256,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,2,2,2,0,0,0,2991,2995,2979,65534,65534,65534,3624,UNKNOWN
-dark lily crown,5116,257,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,2999,65534,65534,65534,65534,65534,3625,UNKNOWN
-mum crown,5117,258,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,0,2,2,2,0,0,0,3768,3758,3754,65534,65534,65534,3603,UNKNOWN
-chic mum crown,5118,259,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,0,0,0,0,3762,3765,65534,65534,65534,65534,3604,UNKNOWN
-simple mum crown,5119,260,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,5175,65534,65534,65534,65534,65534,3605,UNKNOWN
-leaf,4682,261,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,5,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1280,UNKNOWN
-golden toilet,3472,262,47,_UNK_,_UNK_,"('None', '※未設定')",Snooty,200,6,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1106,UNKNOWN
-DIY workbench,1241,263,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,5,5,5,3,1,0,2768,2769,2767,2511,3122,65534,302,UNKNOWN
-pitfall seed,2578,264,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,4,6,0,0,0,0,2624,2500,65534,65534,65534,65534,135,UNKNOWN
-stone fence,5212,266,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,4,0,0,0,0,0,2502,65534,65534,65534,65534,65534,890,UNKNOWN
-iron fence,4357,267,45,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,2511,65534,65534,65534,65534,65534,991,UNKNOWN
-country fence,4350,268,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,2769,65534,65534,65534,65534,65534,583,UNKNOWN
-corral fence,4349,269,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534,580,UNKNOWN
-axe,2100,271,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,3,1,0,0,0,3068,2768,2511,65534,65534,65534,102,UNKNOWN
-big festive tree,3966,273,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,6,6,4,5,5,0,5730,5731,5732,2768,3090,65534,3404,UNKNOWN
-festive tree,3991,274,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,3,3,2,5,0,0,5730,5731,5732,2768,65534,65534,3403,UNKNOWN
-manhole cover,144,277,45,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534,917,UNKNOWN
-tiny library,5635,278,13,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,3,5,0,0,0,0,3582,2768,65534,65534,65534,65534,2101,UNKNOWN
-wooden-plank sign,5636,279,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534,483,UNKNOWN
-watering can,2379,280,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,1,0,0,0,0,3083,2511,65534,65534,65534,65534,110,UNKNOWN
-shovel,2099,281,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,1,0,0,0,0,3082,2511,65534,65534,65534,65534,104,UNKNOWN
-fishing rod,2377,282,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,1,0,0,0,0,3084,2511,65534,65534,65534,65534,106,UNKNOWN
-net,5784,283,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,1,0,0,0,0,2376,2511,65534,65534,65534,65534,108,UNKNOWN
-cutting board,3618,284,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,2,1,0,0,0,0,2769,2511,65534,65534,65534,65534,465,UNKNOWN
-stone axe,5856,285,41,_UNK_,_UNK_,"('DIYbookNormalTools', 'DIYレシピいっぱし道具')",Not from Villagers,0,1,3,0,0,0,0,3068,2768,65534,65534,65534,65534,101,UNKNOWN
-starry wall,5528,286,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2251,UNKNOWN
-ice flooring,5516,288,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534,3260,UNKNOWN
-iceberg flooring,5253,289,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,10,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3361,UNKNOWN
-autumn wall,4905,290,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,10,5,5,0,0,0,7374,2768,2624,65534,65534,65534,2950,UNKNOWN
-Jingle wall,5230,291,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,5,5,5,5,0,0,5730,5731,5732,3090,65534,65534,3450,UNKNOWN
-sci-fi wall,5510,292,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2252,UNKNOWN
-ice wall,5505,293,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534,3250,UNKNOWN
-starry-sky wall,5500,294,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2250,UNKNOWN
-ski-slope wall,5498,295,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,8,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3350,UNKNOWN
-honeycomb wall,4865,296,43,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,6,0,0,0,0,0,3263,65534,65534,65534,65534,65534,2050,UNKNOWN
-gold-screen wall,4820,298,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,2,1,0,0,0,0,2505,4819,65534,65534,65534,65534,1151,UNKNOWN
-golden wall,4894,299,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1150,UNKNOWN
-bamboo-grove wall,4853,300,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,7,3,0,0,0,0,5729,2295,65534,65534,65534,65534,2551,UNKNOWN
-garbage-heap wall,5229,301,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,2,2,2,0,0,0,3466,3469,3470,65534,65534,65534,650,UNKNOWN
-iceberg wall,5662,302,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,10,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3351,UNKNOWN
-orange wall,4915,303,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,20,0,0,0,0,0,2214,65534,65534,65534,65534,65534,1350,UNKNOWN
-apple wall,4916,304,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,20,0,0,0,0,0,2213,65534,65534,65534,65534,65534,1750,UNKNOWN
-pear wall,4917,305,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,20,0,0,0,0,0,2285,65534,65534,65534,65534,65534,1650,UNKNOWN
-peach wall,4918,306,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,20,0,0,0,0,0,2286,65534,65534,65534,65534,65534,1550,UNKNOWN
-cherry wall,4919,307,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,20,0,0,0,0,0,2287,65534,65534,65534,65534,65534,1450,UNKNOWN
-mush wall,5164,308,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,1,1,1,1,0,0,3276,3277,3278,3279,65534,65534,3051,UNKNOWN
-wild-wood wall,4858,309,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534,523,UNKNOWN
-wooden-mosaic wall,4859,310,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534,521,UNKNOWN
-dark wooden-mosaic wall,4860,311,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534,522,UNKNOWN
-brown herringbone wall,4804,312,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,15,0,0,0,0,0,2767,65534,65534,65534,65534,65534,524,UNKNOWN
-chocolate herringbone wall,4805,313,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,15,0,0,0,0,0,2767,65534,65534,65534,65534,65534,525,UNKNOWN
-stacked-wood wall,4844,314,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534,528,UNKNOWN
-cabin wall,4840,315,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534,527,UNKNOWN
-manga-library wall,4838,316,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,10,0,0,0,0,0,3586,65534,65534,65534,65534,65534,2112,UNKNOWN
-classic-library wall,4837,317,13,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,10,0,0,0,0,0,3582,65534,65534,65534,65534,65534,2103,UNKNOWN
-stone wall,5216,318,17,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534,850,UNKNOWN
-wooden-knot wall,4911,319,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534,526,UNKNOWN
-modern wood wall,4904,320,42,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,5,5,5,0,0,0,2768,2767,2769,65534,65534,65534,520,UNKNOWN
-sakura-wood wall,4947,321,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,5,10,0,0,0,0,5859,2768,65534,65534,65534,65534,2651,UNKNOWN
-bamboo wall,4833,322,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2450,UNKNOWN
-snowflake wall,4855,323,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,12,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3352,UNKNOWN
-rustic-stone wall,4813,324,17,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,5,5,0,0,0,0,2502,3090,65534,65534,65534,65534,851,UNKNOWN
-steel-frame wall,4801,325,45,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534,950,UNKNOWN
-jungle wall,5457,326,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,15,3,3,3,0,0,2624,2768,2769,2767,65534,65534,1250,UNKNOWN
-deer scare,677,359,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,3,8,3,0,0,0,2501,2502,2624,65534,65534,65534,2408,UNKNOWN
-tulip wreath,5670,360,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,2883,2887,2879,65534,65534,65534,3549,UNKNOWN
-pretty tulip wreath,5751,361,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,2895,2891,2899,65534,65534,65534,3550,UNKNOWN
-dark tulip wreath,5771,362,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2903,65534,65534,65534,65534,65534,3551,UNKNOWN
-three-tiered snowperson,5337,364,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,6,2,0,0,0,3540,3539,2500,65534,65534,65534,3210,UNKNOWN
-iron hanger stand,3561,365,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534,906,UNKNOWN
-Aquarius urn,5956,366,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,5,0,0,5983,5986,2505,2502,65534,65534,2310,UNKNOWN
-Aries rocking chair,5954,367,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,1,5,0,0,5983,5988,2505,2502,65534,65534,2300,UNKNOWN
-Virgo harp,5955,368,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,4,0,0,5983,5993,2505,2502,65534,65534,2305,UNKNOWN
-Capricorn ornament,5957,370,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,12,0,0,5983,5985,2505,2502,65534,65534,2309,UNKNOWN
-Cancer table,5959,371,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,3,0,0,5983,5991,2505,2502,65534,65534,2303,UNKNOWN
-holiday candle,891,372,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,5,5,0,0,0,0,5730,2624,65534,65534,65534,65534,3401,UNKNOWN
-lunar rover,1442,373,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,10,4,0,0,0,5983,2511,3470,65534,65534,65534,2226,UNKNOWN
-sauna heater,3689,374,17,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,6,3,3,0,0,0,2502,2511,2768,65534,65534,65534,810,UNKNOWN
-cherry-blossom bonsai,6030,375,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,6,2,3,3,0,0,5859,2769,2624,3090,65534,65534,2601,UNKNOWN
-Sagittarius arrow,5958,376,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,0,0,0,5983,5996,2505,65534,65534,65534,2308,UNKNOWN
-Gemini closet,5960,377,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,6,0,0,5983,5990,2505,2502,65534,65534,2302,UNKNOWN
-deer decoration,3340,378,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,50,8,0,0,0,0,0,2767,65534,65534,65534,65534,65534,482,UNKNOWN
-satellite,1443,379,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,15,0,0,0,0,5983,2511,65534,65534,65534,65534,2222,UNKNOWN
-Scorpio lamp,5962,380,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,5,0,0,5983,5995,2505,2502,65534,65534,2307,UNKNOWN
-space shuttle,1444,381,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,10,0,0,0,0,5983,2511,65534,65534,65534,65534,2223,UNKNOWN
-steamer-basket set,3344,382,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534,2503,UNKNOWN
-destinations signpost,4309,383,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,4,8,0,0,0,0,2769,2767,65534,65534,65534,65534,441,UNKNOWN
-Taurus bathtub,5961,384,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,1,8,0,0,5983,5989,2505,2502,65534,65534,2301,UNKNOWN
-bamboo-shoot lamp,5977,385,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,4,5,4,0,0,0,5729,2295,3090,65534,65534,65534,2504,UNKNOWN
-lunar lander,1440,386,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,15,0,0,0,0,5983,2511,65534,65534,65534,65534,2225,UNKNOWN
-wooden-block stool,5543,387,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,1,2,0,0,0,0,3206,2767,65534,65534,65534,65534,351,UNKNOWN
-tabletop festive tree,4067,388,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,5,3,2,0,0,0,5732,2500,3090,65534,65534,65534,3402,UNKNOWN
-water pump,2326,389,45,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Lazy,0,2,6,0,0,0,0,2511,3090,65534,65534,65534,65534,911,UNKNOWN
-decoy duck,1797,390,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,4,0,0,0,0,0,2767,65534,65534,65534,65534,65534,466,UNKNOWN
-terrarium,3773,391,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,12,2,0,0,0,0,2624,2511,65534,65534,65534,65534,1202,UNKNOWN
-illuminated reindeer,4074,392,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,6,5,0,0,0,0,5732,2511,65534,65534,65534,65534,3409,UNKNOWN
-gong,4075,393,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,6,5,0,0,0,0,2511,2768,65534,65534,65534,65534,910,UNKNOWN
-oil-barrel bathtub,3819,394,13,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,1,1,2,0,0,0,1567,1429,2502,65534,65534,65534,2150,UNKNOWN
-barbell,4078,395,45,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,10,0,0,0,0,0,2511,65534,65534,65534,65534,65534,914,UNKNOWN
-hanging terrarium,3775,396,14,_UNK_,_UNK_,"('None', '※未設定')",Peppy,50,12,4,0,0,0,0,2624,2511,65534,65534,65534,65534,1232,UNKNOWN
-bamboo drum,4093,397,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,50,3,2,0,0,0,0,2501,2767,65534,65534,65534,65534,2413,UNKNOWN
-pan flute,5517,398,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,7,0,0,0,0,0,5729,65534,65534,65534,65534,65534,134,UNKNOWN
-Pisces lamp,5963,399,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,4,0,0,5983,5987,2505,2502,65534,65534,2311,UNKNOWN
-infused-water dispenser,4107,400,46,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,2,2,2,2,2,2,2213,2285,2287,2214,2286,2288,1901,UNKNOWN
-illuminated present,4108,401,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,3,4,3,0,0,0,5730,5732,2511,65534,65534,65534,3408,UNKNOWN
-firewood,5970,402,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534,467,UNKNOWN
-matryoshka,1652,403,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534,461,UNKNOWN
-wooden bookshelf,4125,404,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,5,10,0,0,0,0,3582,2768,65534,65534,65534,65534,2102,UNKNOWN
-coconut wall planter,4130,405,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,1,5,0,0,0,0,2288,2624,65534,65534,65534,65534,1830,UNKNOWN
-illuminated snowflakes,4131,406,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,9,3,0,0,0,0,5731,2511,65534,65534,65534,65534,3407,UNKNOWN
-Leo sculpture,5964,407,48,_UNK_,_UNK_,Celeste (Zodiac),Not from Villagers,0,3,2,2,3,0,0,5983,5992,2505,2502,65534,65534,2304,UNKNOWN
-brick well,3776,408,16,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,8,5,1,0,0,0,3090,2768,3082,65534,65534,65534,707,UNKNOWN
-rocket,1441,409,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,20,0,0,0,0,5983,2511,65534,65534,65534,65534,2221,UNKNOWN
-outdoor bath,1111,410,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,20,1,0,0,0,0,2502,2099,65534,65534,65534,65534,812,UNKNOWN
-traditional balancing toy,5975,411,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,4,2,0,0,0,0,5727,2769,65534,65534,65534,65534,2905,UNKNOWN
-log stakes,5973,412,42,_UNK_,_UNK_,"('RcoDonationRewardA', 'たぬきち虫魚報酬A')",Smug,0,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534,341,UNKNOWN
-magazine rack,1032,413,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,2,4,0,0,0,0,3586,2768,65534,65534,65534,65534,2110,UNKNOWN
-tree's bounty mobile,6075,414,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,2,3,3,0,0,0,5728,5727,2500,65534,65534,65534,2930,UNKNOWN
-tree's bounty lamp,6078,415,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,6,4,0,0,0,0,5727,3090,65534,65534,65534,65534,2906,UNKNOWN
-tree's bounty little tree,6079,416,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,6,4,1,0,0,0,5728,5727,2769,65534,65534,65534,2907,UNKNOWN
-tree's bounty big tree,6080,417,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,5,4,4,8,4,0,5728,5727,7374,2500,3090,65534,2908,UNKNOWN
-cherry-blossom-petal pile,6032,418,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,5,0,0,0,0,0,5859,65534,65534,65534,65534,65534,2600,UNKNOWN
-cherry-blossom branches,6031,419,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,8,4,5,0,0,0,5859,2500,3090,65534,65534,65534,2602,UNKNOWN
-bamboo sphere,5976,420,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,50,3,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2404,UNKNOWN
-bamboo lunch box,5978,421,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,4,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2406,UNKNOWN
-outdoor picnic set,6033,422,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,10,0,0,0,0,0,5859,65534,65534,65534,65534,65534,2603,UNKNOWN
-tree's bounty arch,6081,423,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,4,5,5,15,0,0,5728,5727,7374,2500,65534,65534,2909,UNKNOWN
-bamboo noodle slide,5979,424,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,7,3,0,0,0,0,5729,2768,65534,65534,65534,65534,2502,UNKNOWN
-cherry-blossom clock,6832,426,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,5,1,0,0,0,0,5859,2511,65534,65534,65534,65534,2630,UNKNOWN
-blossom-viewing lantern,6831,427,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,6,4,0,0,0,0,5859,2769,65534,65534,65534,65534,2604,UNKNOWN
-nova light,6826,429,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,0,0,0,0,0,5983,65534,65534,65534,65534,65534,2200,UNKNOWN
-starry garland,6827,430,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,0,0,0,0,0,5983,65534,65534,65534,65534,65534,2231,UNKNOWN
-crescent-moon chair,6829,432,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,7,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2201,UNKNOWN
-ornament mobile,6818,433,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,1,1,1,4,0,0,5730,5731,5732,2500,65534,65534,3430,UNKNOWN
-crewed spaceship,5676,434,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,10,20,0,0,0,0,5983,2511,65534,65534,65534,65534,2224,UNKNOWN
-jail bars,5931,435,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534,912,UNKNOWN
-wild log bench,5972,436,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534,332,UNKNOWN
-key holder,3992,437,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,50,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534,480,UNKNOWN
-lily wreath,5641,438,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,50,3,3,3,0,0,0,2979,2983,2987,65534,65534,65534,3563,UNKNOWN
-chic windflower wreath,5765,440,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,3727,65534,65534,65534,65534,65534,3542,UNKNOWN
-cool windflower wreath,5746,441,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,3717,3720,3709,65534,65534,65534,3541,UNKNOWN
-natural mum wreath,5768,442,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,5175,65534,65534,65534,65534,65534,3545,UNKNOWN
-fancy mum wreath,5749,443,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,3765,3762,3768,65534,65534,65534,3544,UNKNOWN
-chic cosmos wreath,5764,444,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2875,65534,65534,65534,65534,65534,3548,UNKNOWN
-pretty cosmos wreath,5745,445,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,2871,2867,2304,65534,65534,65534,3547,UNKNOWN
-dark rose wreath,5766,446,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,3,6,0,0,0,0,2955,2951,65534,65534,65534,65534,3554,UNKNOWN
-blue rose wreath,5772,447,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2959,65534,65534,65534,65534,65534,3555,UNKNOWN
-fancy rose wreath,5747,448,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,2947,2943,2939,65534,65534,65534,3553,UNKNOWN
-gold rose wreath,5820,449,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2963,65534,65534,65534,65534,65534,3556,UNKNOWN
-cool pansy wreath,5767,450,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2923,65534,65534,65534,65534,65534,3559,UNKNOWN
-snazzy pansy wreath,5748,451,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,2919,2927,2915,65534,65534,65534,3558,UNKNOWN
-purple hyacinth wreath,5769,452,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,3751,65534,65534,65534,65534,65534,3562,UNKNOWN
-cool hyacinth wreath,5750,453,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,3741,3748,3738,65534,65534,65534,3561,UNKNOWN
-dark lily wreath,5770,454,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,10,0,0,0,0,0,2999,65534,65534,65534,65534,65534,3565,UNKNOWN
-fancy lily wreath,5677,455,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,100,3,3,3,0,0,0,2995,2991,2987,65534,65534,65534,3564,UNKNOWN
-leaf umbrella,6840,456,14,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,15,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1282,UNKNOWN
-clothesline,3229,457,42,_UNK_,_UNK_,"('ImmigrationQuest', '移住クエスト')",Cranky,0,10,0,0,0,0,0,2500,65534,65534,65534,65534,65534,203,UNKNOWN
-bridge construction kit,7211,458,49,_UNK_,_UNK_,"('WoodBridge', 'まるたのはし(シーケンス)')",Not from Villagers,0,4,4,4,0,0,0,5973,3090,2502,65534,65534,65534,1,UNKNOWN
-blue rose crown,7377,459,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,2959,65534,65534,65534,65534,65534,3615,UNKNOWN
-gold rose crown,7378,460,14,_UNK_,_UNK_,"('None', '※未設定')",All Villagers,200,6,0,0,0,0,0,2963,65534,65534,65534,65534,65534,3616,UNKNOWN
-campsite construction kit,5166,461,49,_UNK_,_UNK_,"('CampSite', 'キャンプ場(シーケンス)')",Not from Villagers,0,15,15,15,15,0,0,2768,2767,2769,2511,65534,65534,1,UNKNOWN
-document stack,1750,462,13,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,1,0,0,0,0,0,4034,65534,65534,65534,65534,65534,2120,UNKNOWN
-scattered papers,4034,463,13,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,1,0,0,0,0,0,1750,65534,65534,65534,65534,65534,2121,UNKNOWN
-fossil doorplate,5719,464,17,_UNK_,_UNK_,"('None', '※未設定')",Jock,50,1,2,0,0,0,0,2579,2502,65534,65534,65534,65534,840,UNKNOWN
-timber doorplate,5718,465,42,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,2,1,0,0,0,0,2768,2943,65534,65534,65534,65534,502,UNKNOWN
-paw-print doorplate,5716,466,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,50,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534,501,UNKNOWN
-bone doorplate,4751,467,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,50,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534,500,UNKNOWN
-iron doorplate,4752,468,45,_UNK_,_UNK_,"('None', '※未設定')",Uchi,50,2,0,0,0,0,0,2511,65534,65534,65534,65534,65534,940,UNKNOWN
-crest doorplate,5717,469,45,_UNK_,_UNK_,"('None', '※未設定')",Smug,50,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534,941,UNKNOWN
-jungle flooring,5515,470,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,10,10,0,0,0,0,2624,3090,65534,65534,65534,65534,1260,UNKNOWN
-woodland wall,5223,471,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,15,9,0,0,0,0,2624,2767,65534,65534,65534,65534,1251,UNKNOWN
-honeycomb flooring,4999,472,43,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,5,0,0,0,0,0,3263,65534,65534,65534,65534,65534,2060,UNKNOWN
-money flooring,4986,473,13,_UNK_,_UNK_,"('None', '※未設定')",Snooty,100,1,0,0,0,0,0,2163,65534,65534,65534,65534,65534,2190,UNKNOWN
-basement flooring,4797,474,17,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534,860,UNKNOWN
-golden flooring,5021,475,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1160,UNKNOWN
-colored-leaves flooring,4990,476,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,10,15,0,0,0,0,7374,2624,65534,65534,65534,65534,2960,UNKNOWN
-sci-fi flooring,5270,477,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2262,UNKNOWN
-lunar surface,4968,478,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2261,UNKNOWN
-cherry-blossom flooring,7204,479,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,10,20,0,0,0,0,5859,2624,65534,65534,65534,65534,2660,UNKNOWN
-cherry-blossom-trees wall,7205,480,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,10,5,0,0,0,0,5859,2769,65534,65534,65534,65534,2650,UNKNOWN
-galaxy flooring,5269,482,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534,2260,UNKNOWN
-ski-slope flooring,4989,483,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,8,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3360,UNKNOWN
-forest wall,7187,484,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,2,2,2,2,10,0,3276,3277,3278,3279,2768,65534,3050,UNKNOWN
-bamboo flooring,4964,485,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2460,UNKNOWN
-garbage-heap flooring,5236,486,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,2,2,2,0,0,0,3466,3469,3470,65534,65534,65534,660,UNKNOWN
-backyard lawn,4979,487,14,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,30,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1261,UNKNOWN
-forest flooring,7186,488,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,1,2,2,2,10,0,3280,3277,3278,3279,2624,65534,3060,UNKNOWN
-steel flooring,4960,489,45,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,7,0,0,0,0,0,2511,65534,65534,65534,65534,65534,960,UNKNOWN
-kettle bathtub,4008,490,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,8,2,1,0,0,0,2511,2768,1429,65534,65534,65534,916,UNKNOWN
-wooden low table,7134,491,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,10,0,0,0,0,0,2768,65534,65534,65534,65534,65534,314,UNKNOWN
-wooden mini table,7133,492,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534,312,UNKNOWN
-wooden double bed,7132,493,42,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,30,0,0,0,0,0,2768,65534,65534,65534,65534,65534,319,UNKNOWN
-simple DIY workbench,7142,494,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,5,1,0,0,0,0,2769,2511,65534,65534,65534,65534,300,UNKNOWN
-tulip surprise box,7231,495,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,50,5,3,0,0,0,0,2883,2767,65534,65534,65534,65534,3503,UNKNOWN
-cardboard table,7160,496,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2132,UNKNOWN
-cardboard bed,7161,497,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2133,UNKNOWN
-cardboard chair,7163,498,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,1,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2130,UNKNOWN
-cardboard sofa,7159,500,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,2,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2131,UNKNOWN
-cosmos shower,7230,501,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,5,3,0,0,0,0,2867,2511,65534,65534,65534,65534,3502,UNKNOWN
-wooden full-length mirror,7137,502,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,5,1,0,0,0,0,2768,2511,65534,65534,65534,65534,320,UNKNOWN
-windflower fan,7233,503,14,_UNK_,_UNK_,"('None', '※未設定')",Lazy,50,3,2,0,0,0,0,3723,2511,65534,65534,65534,65534,3500,UNKNOWN
-recycled-can thumb piano,7045,504,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,1,1,1,0,0,0,3466,2768,2511,65534,65534,65534,600,UNKNOWN
-mum cushion,7232,505,14,_UNK_,_UNK_,"('None', '※未設定')",Peppy,50,3,10,0,0,0,0,3758,2624,65534,65534,65534,65534,3501,UNKNOWN
-hyacinth lamp,7234,506,14,_UNK_,_UNK_,"('None', '※未設定')",Uchi,50,5,3,0,0,0,0,3751,3090,65534,65534,65534,65534,3506,UNKNOWN
-rose bed,7235,507,14,_UNK_,_UNK_,"('None', '※未設定')",Smug,50,10,5,0,0,0,0,2935,2768,65534,65534,65534,65534,3504,UNKNOWN
-butter churn,7805,508,42,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,4,2,0,0,0,0,2768,2511,65534,65534,65534,65534,433,UNKNOWN
-leaf campfire,7788,509,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,3,5,3,0,0,0,5728,2624,2500,65534,65534,65534,2903,UNKNOWN
-angled signpost,7867,510,42,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,2,3,0,0,0,0,2769,2767,65534,65534,65534,65534,440,UNKNOWN
-cherry-blossom pond stone,7409,511,17,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,10,3,0,0,0,0,2502,5859,65534,65534,65534,65534,820,UNKNOWN
-maple-leaf pond stone,7408,512,17,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,10,3,0,0,0,0,2502,7374,65534,65534,65534,65534,821,UNKNOWN
-pond stone,7393,513,17,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534,819,UNKNOWN
-star clock,7253,514,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,3,1,0,0,0,0,5983,2511,65534,65534,65534,65534,2230,UNKNOWN
-lily record player,7236,515,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,5,3,3,0,0,0,2979,2511,2768,65534,65534,65534,3507,UNKNOWN
-pansy table,7237,516,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,50,5,3,0,0,0,0,2915,2769,65534,65534,65534,65534,3505,UNKNOWN
-western-style stone,3446,518,17,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,30,0,0,0,0,0,2502,65534,65534,65534,65534,65534,814,UNKNOWN
-leaf stool,7390,519,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,3,3,0,0,0,0,7374,2768,65534,65534,65534,65534,2904,UNKNOWN
-raccoon figurine,7452,520,16,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,6,0,0,0,0,0,3090,65534,65534,65534,65534,65534,705,UNKNOWN
-pile of zen cushions,7048,521,13,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,3,0,0,0,0,0,7047,65534,65534,65534,65534,65534,2140,UNKNOWN
-star wand,2544,523,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,5984,5983,65534,65534,65534,65534,2291,UNKNOWN
-hyacinth wand,5083,524,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,3738,5983,65534,65534,65534,65534,3676,UNKNOWN
-windflower wand,5084,525,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,3713,5983,65534,65534,65534,65534,3670,UNKNOWN
-tulip wand,5085,526,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,2883,5983,65534,65534,65534,65534,3673,UNKNOWN
-pansy wand,5091,527,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,2915,5983,65534,65534,65534,65534,3675,UNKNOWN
-cosmos wand,5092,528,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,2305,5983,65534,65534,65534,65534,3672,UNKNOWN
-rose wand,5093,529,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,2935,5983,65534,65534,65534,65534,3674,UNKNOWN
-lily wand,5094,530,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,2979,5983,65534,65534,65534,65534,3677,UNKNOWN
-mums wand,5095,531,14,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,1,3,0,0,0,0,3758,5983,65534,65534,65534,65534,3671,UNKNOWN
-wand,7584,532,41,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,2,0,0,0,0,0,5983,65534,65534,65534,65534,65534,123,UNKNOWN
-ice wand,7585,533,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,3,0,0,0,0,3540,5983,65534,65534,65534,65534,3290,UNKNOWN
-shell wand,7586,534,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,3,3,0,0,0,0,5982,5983,65534,65534,65534,65534,2890,UNKNOWN
-tree-branch wand,7587,535,42,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,3,0,0,0,0,2500,5983,65534,65534,65534,65534,290,UNKNOWN
-mushroom wand,7588,536,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,3,3,0,0,0,0,3278,5983,65534,65534,65534,65534,3090,UNKNOWN
-cherry-blossom wand,7589,537,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,3,3,0,0,0,0,5859,5983,65534,65534,65534,65534,2690,UNKNOWN
-bamboo wand,7590,538,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,6,3,0,0,0,0,5729,5983,65534,65534,65534,65534,2590,UNKNOWN
-golden wand,7591,539,47,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,2,3,0,0,0,0,2505,5983,65534,65534,65534,65534,1190,UNKNOWN
-iron wand,7592,540,45,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,3,3,0,0,0,0,2511,5983,65534,65534,65534,65534,999,UNKNOWN
-maple-leaf umbrella,7169,541,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,7,0,0,0,0,0,7374,65534,65534,65534,65534,65534,2980,UNKNOWN
-apple rug,7327,542,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,6,0,0,0,0,0,2213,65534,65534,65534,65534,65534,1770,UNKNOWN
-cherry rug,7328,543,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,6,0,0,0,0,0,2287,65534,65534,65534,65534,65534,1470,UNKNOWN
-orange rug,7330,544,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,6,0,0,0,0,0,2214,65534,65534,65534,65534,65534,1370,UNKNOWN
-peach rug,7331,545,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,6,0,0,0,0,0,2286,65534,65534,65534,65534,65534,1570,UNKNOWN
-pear rug,7332,546,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,6,0,0,0,0,0,2285,65534,65534,65534,65534,65534,1670,UNKNOWN
-rope fence,4352,549,45,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534,990,UNKNOWN
-imperial fence,4354,550,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,4,0,0,0,0,2768,2767,65534,65534,65534,65534,597,UNKNOWN
-straw fence,4356,552,14,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,10,3,0,0,0,0,2624,2768,65534,65534,65534,65534,1290,UNKNOWN
-spiky fence,4358,553,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534,584,UNKNOWN
-iron-and-stone fence,5206,555,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,3,0,0,0,0,2502,2511,65534,65534,65534,65534,891,UNKNOWN
-zen fence,5207,556,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,3,3,3,0,0,0,2511,3090,2502,65534,65534,65534,893,UNKNOWN
-barbed-wire fence,5213,561,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,4,2,0,0,0,0,2769,2511,65534,65534,65534,65534,585,UNKNOWN
-underwater flooring,5268,564,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,3,3,0,0,0,0,5982,1380,65534,65534,65534,65534,2860,UNKNOWN
-water flooring,5030,565,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,6,0,0,0,0,0,5982,65534,65534,65534,65534,65534,2862,UNKNOWN
-gold armor,4590,566,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,8,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1181,UNKNOWN
-medicine,2777,567,46,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,1,3,0,0,0,0,3263,2624,65534,65534,65534,65534,130,UNKNOWN
-zen-style stone,7317,568,17,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,30,0,0,0,0,0,2502,65534,65534,65534,65534,65534,815,UNKNOWN
-golden casket,8825,569,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,200,8,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1105,UNKNOWN
-stone lion-dog,7795,570,17,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,24,0,0,0,0,0,2502,65534,65534,65534,65534,65534,816,UNKNOWN
-garden wagon,8419,571,42,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,3,3,3,8,2,0,3730,2304,2939,2768,2511,65534,436,UNKNOWN
-wooden table mirror,8826,572,42,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534,321,UNKNOWN
-iron closet,9642,573,45,_UNK_,_UNK_,"('None', '※未設定')",Uchi,0,12,0,0,0,0,0,2511,65534,65534,65534,65534,65534,904,UNKNOWN
-modeling clay,7258,574,16,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,2,0,0,0,0,0,3090,65534,65534,65534,65534,65534,700,UNKNOWN
-palm-tree lamp,7259,575,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,4,4,4,0,0,0,2288,2768,3090,65534,65534,65534,1801,UNKNOWN
-trophy case,7261,576,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,24,3,6,0,0,0,2769,2505,2511,65534,65534,65534,401,UNKNOWN
-giant teddy bear,1504,577,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,1,1,1,0,0,0,1499,1500,1501,65534,65534,65534,2160,UNKNOWN
-lucky gold cat,9814,578,47,_UNK_,_UNK_,"('None', '※未設定')",Snooty,100,2,1,0,0,0,0,2505,131,65534,65534,65534,65534,1107,UNKNOWN
-wooden toolbox,7454,579,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,4,2,0,0,0,0,2767,2511,65534,65534,65534,65534,468,UNKNOWN
-sleigh,7281,580,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534,442,UNKNOWN
-grass standee,530,582,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,2,2,0,0,0,0,2768,2767,65534,65534,65534,65534,378,UNKNOWN
-hedge standee,531,583,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,2,3,0,0,0,0,2768,2767,65534,65534,65534,65534,379,UNKNOWN
-mountain standee,532,584,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,4,5,0,0,0,0,2768,2767,65534,65534,65534,65534,380,UNKNOWN
-tree standee,533,585,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,5,8,0,0,0,0,2768,2767,65534,65534,65534,65534,381,UNKNOWN
-pile of leaves,1023,586,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,3,5,0,0,0,0,5728,2624,65534,65534,65534,65534,2902,UNKNOWN
-green-leaf pile,4269,587,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,1,10,0,0,0,0,5729,2624,65534,65534,65534,65534,2501,UNKNOWN
-yellow-leaf pile,4270,588,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,3,5,0,0,0,0,5727,2624,65534,65534,65534,65534,2900,UNKNOWN
-red-leaf pile,4271,589,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,3,4,0,0,0,0,7374,2624,65534,65534,65534,65534,2901,UNKNOWN
-bamboo stool,10742,590,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,5,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2400,UNKNOWN
-bamboo speaker,10743,591,14,_UNK_,_UNK_,"('None', '※未設定')",Snooty,50,3,1,0,0,0,0,2501,2511,65534,65534,65534,65534,2411,UNKNOWN
-pine bonsai tree,3802,592,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,8,5,0,0,0,0,5728,3090,65534,65534,65534,65534,2910,UNKNOWN
-bonsai shelf,3580,593,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,1,1,8,0,0,0,6030,3802,2768,65534,65534,65534,437,UNKNOWN
-robot hero,1509,594,48,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,1,1,30,90,10,0,1441,4590,2389,2511,2505,65534,2228,UNKNOWN
-golden gears,11261,595,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,50,1,3,0,0,0,0,2505,2511,65534,65534,65534,65534,1130,UNKNOWN
-stall,3617,596,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,12,0,0,0,0,0,2768,65534,65534,65534,65534,65534,438,UNKNOWN
-silo,7247,598,16,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,12,6,12,12,0,0,2511,2769,3090,2502,65534,65534,708,UNKNOWN
-fountain,8031,599,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,1,20,8,0,0,0,2319,2502,2511,65534,65534,65534,804,UNKNOWN
-kettlebell,7535,600,45,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534,913,UNKNOWN
-golden dung beetle,5941,601,47,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1131,UNKNOWN
-golden arowana model,11260,602,47,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1132,UNKNOWN
-grass skirt,4333,603,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,7,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1286,UNKNOWN
-traditional straw coat,5291,604,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,8,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1285,UNKNOWN
-green grass skirt,8907,605,14,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,7,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1287,UNKNOWN
-straw umbrella hat,7254,606,14,_UNK_,_UNK_,"('None', '※未設定')",Smug,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1283,UNKNOWN
-bamboo hat,5143,607,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1284,UNKNOWN
-flower stand,7527,608,14,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,1,2,2,2,1,4,2935,2943,2947,2979,2987,3727,3508,UNKNOWN
-small cardboard boxes,3410,609,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,2,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2134,UNKNOWN
-medium cardboard boxes,3411,610,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2135,UNKNOWN
-large cardboard boxes,3412,611,13,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,5,0,0,0,0,0,3672,65534,65534,65534,65534,65534,2136,UNKNOWN
-cherry dress,9838,612,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,8,0,0,0,0,0,2287,65534,65534,65534,65534,65534,1482,UNKNOWN
-cherry hat,9873,613,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,5,0,0,0,0,0,2287,65534,65534,65534,65534,65534,1481,UNKNOWN
-cherry umbrella,9949,614,13,_UNK_,_UNK_,"('None', '※未設定')",Peppy,100,7,0,0,0,0,0,2287,65534,65534,65534,65534,65534,1480,UNKNOWN
-pear dress,9837,615,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,8,0,0,0,0,0,2285,65534,65534,65534,65534,65534,1682,UNKNOWN
-pear hat,9872,616,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,5,0,0,0,0,0,2285,65534,65534,65534,65534,65534,1681,UNKNOWN
-pear umbrella,9950,617,14,_UNK_,_UNK_,"('None', '※未設定')",Jock,100,7,0,0,0,0,0,2285,65534,65534,65534,65534,65534,1680,UNKNOWN
-peach dress,9839,618,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,8,0,0,0,0,0,2286,65534,65534,65534,65534,65534,1582,UNKNOWN
-peach hat,9874,619,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,5,0,0,0,0,0,2286,65534,65534,65534,65534,65534,1581,UNKNOWN
-peach umbrella,9947,620,40,_UNK_,_UNK_,"('None', '※未設定')",Normal,100,7,0,0,0,0,0,2286,65534,65534,65534,65534,65534,1580,UNKNOWN
-apple dress,9836,621,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,8,0,0,0,0,0,2213,65534,65534,65534,65534,65534,1782,UNKNOWN
-apple hat,9871,622,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,5,0,0,0,0,0,2213,65534,65534,65534,65534,65534,1781,UNKNOWN
-apple umbrella,9948,623,12,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,7,0,0,0,0,0,2213,65534,65534,65534,65534,65534,1780,UNKNOWN
-orange hat,5275,624,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,5,0,0,0,0,0,2214,65534,65534,65534,65534,65534,1381,UNKNOWN
-orange umbrella,6912,625,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,7,0,0,0,0,0,2214,65534,65534,65534,65534,65534,1380,UNKNOWN
-orange dress,3288,626,43,_UNK_,_UNK_,"('None', '※未設定')",Lazy,100,8,0,0,0,0,0,2214,65534,65534,65534,65534,65534,1382,UNKNOWN
-star pochette,7489,627,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,6,0,0,0,0,0,5983,65534,65534,65534,65534,65534,2281,UNKNOWN
-star head,9862,628,48,_UNK_,_UNK_,Celeste (Space & Wands),Not from Villagers,0,5,0,0,0,0,0,5983,65534,65534,65534,65534,65534,2280,UNKNOWN
-cherry-blossom umbrella,9945,629,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,7,0,0,0,0,0,5859,65534,65534,65534,65534,65534,2680,UNKNOWN
-cherry-blossom pochette,7490,630,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,6,0,0,0,0,0,5859,65534,65534,65534,65534,65534,2681,UNKNOWN
-maple-leaf pochette,7491,631,42,_UNK_,_UNK_,"('SeasonMomiji', '季節：紅葉の葉っぱ')",Not from Villagers,0,6,0,0,0,0,0,7374,65534,65534,65534,65534,65534,2981,UNKNOWN
-acorn pochette,7492,632,42,_UNK_,_UNK_,"('SeasonAutumnNuts', '季節：どんぐり')",Not from Villagers,0,6,0,0,0,0,0,5727,65534,65534,65534,65534,65534,2982,UNKNOWN
-snowflake pochette,7493,633,15,_UNK_,_UNK_,"('SeasonSnowCrystal', '季節：ゆきのけっしょう')",Not from Villagers,0,6,0,0,0,0,0,3539,65534,65534,65534,65534,65534,3380,UNKNOWN
-shellfish pochette,7494,634,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,2,6,0,0,0,0,1381,5982,65534,65534,65534,65534,2880,UNKNOWN
-leaf mask,7291,635,14,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1281,UNKNOWN
-knitted-grass backpack,7511,636,14,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,20,0,0,0,0,0,2624,65534,65534,65534,65534,65534,1288,UNKNOWN
-snowperson head,8609,637,15,_UNK_,_UNK_,"('Snowman', 'ゆきだるま')",Not from Villagers,0,1,5,0,0,0,0,3540,3539,65534,65534,65534,65534,3280,UNKNOWN
-log pack,7498,638,42,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,3,5,0,0,0,0,2768,2769,65534,65534,65534,65534,570,UNKNOWN
-iron armor,4588,640,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534,981,UNKNOWN
-knight's helmet,5334,641,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534,980,UNKNOWN
-armor shoes,5472,642,45,_UNK_,_UNK_,"('None', '※未設定')",Cranky,100,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534,982,UNKNOWN
-gold-armor shoes,5524,643,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,200,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1182,UNKNOWN
-gold helmet,5346,644,47,_UNK_,_UNK_,"('None', '※未設定')",Smug,200,5,0,0,0,0,0,2505,65534,65534,65534,65534,65534,1180,UNKNOWN
-basket pack,7506,645,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534,2580,UNKNOWN
-flat garden rock,12206,646,17,_UNK_,_UNK_,"('None', '※未設定')",Snooty,0,20,0,0,0,0,0,2502,65534,65534,65534,65534,65534,806,UNKNOWN
-mossy garden rock,12208,647,17,_UNK_,_UNK_,"('None', '※未設定')",Lazy,0,15,15,0,0,0,0,2502,2624,65534,65534,65534,65534,807,UNKNOWN
-mush umbrella,7174,648,43,_UNK_,_UNK_,"('SeasonMushroom', '季節：きのこ')",Not from Villagers,0,3,0,0,0,0,0,3279,65534,65534,65534,65534,65534,3080,UNKNOWN
-sakura-wood flooring,5056,649,40,_UNK_,_UNK_,"('SeasonSakura', '季節：桜の花びら')",Not from Villagers,0,5,10,0,0,0,0,5859,2768,65534,65534,65534,65534,2661,UNKNOWN
-festive top set,12230,650,46,_UNK_,_UNK_,"('SeasonChristmasOrnament', '季節：オーナメント')",Not from Villagers,0,2,1,0,0,0,0,5732,2769,65534,65534,65534,65534,3400,UNKNOWN
-stone tablet,11943,651,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,12,0,0,0,0,0,2502,65534,65534,65534,65534,65534,817,UNKNOWN
-stone arch,11941,652,17,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,90,0,0,0,0,0,2502,65534,65534,65534,65534,65534,809,UNKNOWN
-tall lantern,676,653,17,_UNK_,_UNK_,"('None', '※未設定')",Smug,100,18,0,0,0,0,0,2502,65534,65534,65534,65534,65534,818,UNKNOWN
-street piano,11942,654,13,_UNK_,_UNK_,"('None', '※未設定')",Uchi,100,1,1,0,0,0,0,1081,3965,65534,65534,65534,65534,2161,UNKNOWN
-scarecrow,1120,655,42,_UNK_,_UNK_,"('None', '※未設定')",Cranky,0,3,5,0,0,0,0,2500,2624,65534,65534,65534,65534,204,UNKNOWN
-simple wooden fence,11711,656,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,6,0,0,0,0,0,2767,65534,65534,65534,65534,65534,588,UNKNOWN
-lattice fence,11712,657,42,_UNK_,_UNK_,"('MileExchange', '＜マイル交換＞')",Not from Villagers,0,8,0,0,0,0,0,2767,65534,65534,65534,65534,65534,592,UNKNOWN
-golden net,8179,658,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,5784,65534,65534,65534,65534,115,UNKNOWN
-golden watering can,8533,659,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,2379,65534,65534,65534,65534,116,UNKNOWN
-golden shovel,8574,660,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,2099,65534,65534,65534,65534,113,UNKNOWN
-golden slingshot,8578,661,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,2822,65534,65534,65534,65534,117,UNKNOWN
-golden rod,8660,662,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,2377,65534,65534,65534,65534,114,UNKNOWN
-golden axe,9617,663,47,_UNK_,_UNK_,"('GoldTool', '＜金の道具＞')",Not from Villagers,0,1,1,0,0,0,0,2505,2100,65534,65534,65534,65534,112,UNKNOWN
-recycled boots,12326,664,45,_UNK_,_UNK_,"('Inspire', '＜ひらめき＞')",Not from Villagers,0,2,0,0,0,0,0,3469,65534,65534,65534,65534,65534,690,UNKNOWN
-underwater wall,5508,665,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,3,5,0,0,0,0,5982,1380,65534,65534,65534,65534,2851,UNKNOWN
-tropical vista,5661,666,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,5,0,0,0,0,0,5982,65534,65534,65534,65534,65534,2850,UNKNOWN
-starry-sands flooring,7239,667,46,_UNK_,_UNK_,"('SeasonSummerShell', '季節：夏のかいがら')",Not from Villagers,0,3,1,0,0,0,0,5982,4970,65534,65534,65534,65534,2861,UNKNOWN
-shell rug,7362,668,46,_UNK_,_UNK_,"('None', '※未設定')",Peppy,0,3,0,0,0,0,0,1381,65534,65534,65534,65534,65534,2770,UNKNOWN
-sandy-beach flooring,4970,669,46,_UNK_,_UNK_,"('None', '※未設定')",Jock,0,1,1,1,1,1,1,1374,1375,1379,1380,1381,1382,2760,UNKNOWN
-natural square table,12332,670,42,_UNK_,_UNK_,"('None', '※未設定')",Normal,0,4,2,0,0,0,0,2769,2511,65534,65534,65534,65534,374,UNKNOWN
-light bamboo rug,11113,671,14,_UNK_,_UNK_,"('SeasonSpringBamboo', '季節：春のわかたけ')",Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534,2570,UNKNOWN
-dark bamboo rug,11114,672,14,_UNK_,_UNK_,"('None', '※未設定')",Cranky,50,6,0,0,0,0,0,2501,65534,65534,65534,65534,65534,2470,UNKNOWN
+item name,itemId,none1,none2,none3,none4,Personality,Rarity?,Qty Material 1,Qty Material 2,Qty Material 3,Qty Material 4,Qty Material 5,Qty Material 6,Material 1 Code,Material 2 Code,Material 3 Code,Material 4 Code,Material 5 Code,Material 6 Code
+bridge construction kit,7211,458,49,_UNK_,_UNK_,Not from Villagers,0,4,4,4,0,0,0,5973,3090,2502,65534,65534,65534
+campsite construction kit,5166,461,49,_UNK_,_UNK_,Not from Villagers,0,15,15,15,15,0,0,2768,2767,2769,2511,65534,65534
+flimsy axe,3068,10,41,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,2500,2502,65534,65534,65534,65534
+stone axe,5856,285,41,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3068,2768,65534,65534,65534,65534
+axe,2100,271,41,_UNK_,_UNK_,Not from Villagers,0,1,3,1,0,0,0,3068,2768,2511,65534,65534,65534
+flimsy shovel,3082,19,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+shovel,2099,281,41,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,3082,2511,65534,65534,65534,65534
+flimsy fishing rod,3084,21,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2500,65534,65534,65534,65534,65534
+fishing rod,2377,282,41,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,3084,2511,65534,65534,65534,65534
+flimsy net,2376,22,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2500,65534,65534,65534,65534,65534
+net,5784,283,41,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2376,2511,65534,65534,65534,65534
+flimsy watering can,3083,20,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+watering can,2379,280,41,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,3083,2511,65534,65534,65534,65534
+slingshot,2822,29,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+golden axe,9617,663,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,2100,65534,65534,65534,65534
+golden shovel,8574,660,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,2099,65534,65534,65534,65534
+golden rod,8660,662,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,2377,65534,65534,65534,65534
+golden net,8179,658,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,5784,65534,65534,65534,65534
+golden watering can,8533,659,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,2379,65534,65534,65534,65534
+golden slingshot,8578,661,47,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,2505,2822,65534,65534,65534,65534
+vaulting pole,4703,183,41,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+ladder,2615,107,41,_UNK_,_UNK_,Not from Villagers,0,4,4,4,0,0,0,2768,2769,2767,65534,65534,65534
+wand,7584,532,41,_UNK_,_UNK_,Not from Villagers,0,2,0,0,0,0,0,5983,65534,65534,65534,65534,65534
+medicine,2777,567,46,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3263,2624,65534,65534,65534,65534
+fish bait,4549,191,46,_UNK_,_UNK_,Not from Villagers,0,1,0,0,0,0,0,2567,65534,65534,65534,65534,65534
+ocarina,5320,218,16,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+pan flute,5517,398,14,_UNK_,_UNK_,Not from Villagers,0,7,0,0,0,0,0,5729,65534,65534,65534,65534,65534
+pitfall seed,2578,264,14,_UNK_,_UNK_,Jock,100,4,6,0,0,0,0,2624,2500,65534,65534,65534,65534
+campfire,1429,13,42,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2500,65534,65534,65534,65534,65534
+bonfire,1430,34,42,_UNK_,_UNK_,Cranky,0,1,10,0,0,0,0,1429,2768,65534,65534,65534,65534
+tiki torch,343,103,42,_UNK_,_UNK_,Cranky,0,5,5,0,0,0,0,2500,2768,65534,65534,65534,65534
+clothesline,3229,457,42,_UNK_,_UNK_,Cranky,0,10,0,0,0,0,0,2500,65534,65534,65534,65534,65534
+scarecrow,1120,655,42,_UNK_,_UNK_,Cranky,0,3,5,0,0,0,0,2500,2624,65534,65534,65534,65534
+tree branch wreath,4727,225,42,_UNK_,_UNK_,Uchi,50,10,0,0,0,0,0,2500,65534,65534,65534,65534,65534
+tree-branch wand,7587,535,42,_UNK_,_UNK_,Not from Villagers,0,5,3,0,0,0,0,2500,5983,65534,65534,65534,65534
+simple DIY workbench,7142,494,42,_UNK_,_UNK_,Jock,0,5,1,0,0,0,0,2769,2511,65534,65534,65534,65534
+mini DIY workbench,3122,82,42,_UNK_,_UNK_,Not from Villagers,0,3,3,3,2,0,0,2768,2769,2767,2511,65534,65534
+DIY workbench,1241,263,42,_UNK_,_UNK_,Uchi,100,5,5,5,3,1,0,2768,2769,2767,2511,3122,65534
+wooden stool,3449,168,42,_UNK_,_UNK_,Peppy,0,4,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden chair,1913,15,42,_UNK_,_UNK_,Snooty,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden mini table,7133,492,42,_UNK_,_UNK_,Uchi,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden end table,3438,170,42,_UNK_,_UNK_,Snooty,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden low table,7134,491,42,_UNK_,_UNK_,Smug,0,10,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden table,3439,201,42,_UNK_,_UNK_,Uchi,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden wardrobe,3436,172,42,_UNK_,_UNK_,Not from Villagers,0,12,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden chest,2560,17,42,_UNK_,_UNK_,Lazy,0,16,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden simple bed,2605,18,42,_UNK_,_UNK_,Lazy,0,18,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden double bed,7132,493,42,_UNK_,_UNK_,Smug,0,30,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden full-length mirror,7137,502,42,_UNK_,_UNK_,Peppy,0,5,1,0,0,0,0,2768,2511,65534,65534,65534,65534
+wooden table mirror,8826,572,42,_UNK_,_UNK_,Uchi,0,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534
+wooden waste bin,3490,173,42,_UNK_,_UNK_,Uchi,0,4,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+log stool,4038,116,42,_UNK_,_UNK_,Peppy,0,4,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log bench,4042,112,42,_UNK_,_UNK_,Normal,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+wild log bench,5972,436,42,_UNK_,_UNK_,Jock,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log dining table,4040,118,42,_UNK_,_UNK_,Cranky,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log round table,4043,111,42,_UNK_,_UNK_,Peppy,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log garden lounge,4035,113,42,_UNK_,_UNK_,Peppy,0,12,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log sofa,4039,117,42,_UNK_,_UNK_,Normal,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log extra-long sofa,4044,110,42,_UNK_,_UNK_,Normal,100,2,0,0,0,0,0,4039,65534,65534,65534,65534,65534
+log bed,4041,119,42,_UNK_,_UNK_,Peppy,0,30,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log decorative shelves,4036,114,42,_UNK_,_UNK_,Normal,100,2,3,0,0,0,0,4042,2769,65534,65534,65534,65534
+log wall-mounted clock,4037,115,42,_UNK_,_UNK_,Lazy,50,2,1,0,0,0,0,2769,2511,65534,65534,65534,65534
+log stakes,5973,412,42,_UNK_,_UNK_,Smug,0,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden-block toy,3206,38,42,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+wooden-block stool,5543,387,42,_UNK_,_UNK_,Peppy,0,1,2,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block chair,2558,160,42,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block bench,1559,23,42,_UNK_,_UNK_,Uchi,0,1,4,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block table,1565,26,42,_UNK_,_UNK_,Uchi,0,1,8,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block chest,1561,24,42,_UNK_,_UNK_,Normal,0,1,12,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block bed,1557,61,42,_UNK_,_UNK_,Normal,0,1,17,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block bookshelf,1558,62,42,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3206,2767,65534,65534,65534,65534
+wooden-block stereo,3205,89,42,_UNK_,_UNK_,Not from Villagers,0,1,5,2,0,0,0,3206,2767,2511,65534,65534,65534
+wooden-block wall clock,3208,90,42,_UNK_,_UNK_,Peppy,50,1,2,1,0,0,0,3206,2767,2511,65534,65534,65534
+plain sink,3683,174,42,_UNK_,_UNK_,Not from Villagers,0,6,4,1,0,0,0,2768,3090,2511,65534,65534,65534
+plain wooden shop sign,3692,166,42,_UNK_,_UNK_,Jock,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+natural garden chair,2586,80,42,_UNK_,_UNK_,Peppy,0,6,2,0,0,0,0,2769,2511,65534,65534,65534,65534
+natural square table,12332,670,42,_UNK_,_UNK_,Normal,0,4,2,0,0,0,0,2769,2511,65534,65534,65534,65534
+natural garden table,3396,224,42,_UNK_,_UNK_,Normal,0,9,3,0,0,0,0,2769,2511,65534,65534,65534,65534
+rocking chair,1103,57,42,_UNK_,_UNK_,Not from Villagers,0,3,5,0,0,0,0,2768,2767,65534,65534,65534,65534
+swinging bench,1170,59,42,_UNK_,_UNK_,Not from Villagers,0,5,7,0,0,0,0,2768,2767,65534,65534,65534,65534
+grass standee,530,582,42,_UNK_,_UNK_,Normal,0,2,2,0,0,0,0,2768,2767,65534,65534,65534,65534
+hedge standee,531,583,42,_UNK_,_UNK_,Normal,0,2,3,0,0,0,0,2768,2767,65534,65534,65534,65534
+mountain standee,532,584,42,_UNK_,_UNK_,Jock,0,4,5,0,0,0,0,2768,2767,65534,65534,65534,65534
+tree standee,533,585,42,_UNK_,_UNK_,Jock,0,5,8,0,0,0,0,2768,2767,65534,65534,65534,65534
+tea table,739,33,42,_UNK_,_UNK_,Cranky,0,12,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+trophy case,7261,576,42,_UNK_,_UNK_,Jock,100,24,3,6,0,0,0,2769,2505,2511,65534,65534,65534
+clackercart,80,164,42,_UNK_,_UNK_,Lazy,0,2,6,0,0,0,0,2769,2767,65534,65534,65534,65534
+rocking horse,83,102,42,_UNK_,_UNK_,Normal,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+birdcage,865,216,42,_UNK_,_UNK_,Uchi,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+music stand,1058,215,42,_UNK_,_UNK_,Lazy,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+acoustic guitar,383,44,42,_UNK_,_UNK_,Smug,0,8,3,0,0,0,0,2767,2511,65534,65534,65534,65534
+doghouse,1799,14,42,_UNK_,_UNK_,Jock,0,10,7,0,0,0,0,2768,2769,65534,65534,65534,65534
+barrel,1266,165,42,_UNK_,_UNK_,Cranky,0,5,2,0,0,0,0,2768,2511,65534,65534,65534,65534
+wooden bucket,880,16,42,_UNK_,_UNK_,Smug,0,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534
+butter churn,7805,508,42,_UNK_,_UNK_,Snooty,0,4,2,0,0,0,0,2768,2511,65534,65534,65534,65534
+birdhouse,333,41,42,_UNK_,_UNK_,Peppy,0,2,5,0,0,0,0,2768,2767,65534,65534,65534,65534
+garden wagon,8419,571,42,_UNK_,_UNK_,Peppy,0,3,3,3,8,2,0,3730,2304,2939,2768,2511,65534
+bonsai shelf,3580,593,42,_UNK_,_UNK_,Cranky,100,1,1,8,0,0,0,6030,3802,2768,65534,65534,65534
+stall,3617,596,42,_UNK_,_UNK_,Not from Villagers,0,12,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+signpost,3588,213,42,_UNK_,_UNK_,Lazy,100,2,3,0,0,0,0,2769,2767,65534,65534,65534,65534
+angled signpost,7867,510,42,_UNK_,_UNK_,Lazy,100,2,3,0,0,0,0,2769,2767,65534,65534,65534,65534
+destinations signpost,4309,383,42,_UNK_,_UNK_,Not from Villagers,0,4,8,0,0,0,0,2769,2767,65534,65534,65534,65534
+sleigh,7281,580,42,_UNK_,_UNK_,Cranky,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+ringtoss,88,43,42,_UNK_,_UNK_,Not from Villagers,0,2,2,0,0,0,0,2768,2767,65534,65534,65534,65534
+matryoshka,1652,403,42,_UNK_,_UNK_,Lazy,0,5,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+ukulele,669,45,42,_UNK_,_UNK_,Smug,0,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+wooden fish,4124,193,42,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+old-fashioned washtub,4393,195,42,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+cutting board,3618,284,42,_UNK_,_UNK_,Normal,0,2,1,0,0,0,0,2769,2511,65534,65534,65534,65534
+decoy duck,1797,390,42,_UNK_,_UNK_,Smug,0,4,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+firewood,5970,402,42,_UNK_,_UNK_,Jock,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wooden toolbox,7454,579,42,_UNK_,_UNK_,Normal,0,4,2,0,0,0,0,2767,2511,65534,65534,65534,65534
+key holder,3992,437,42,_UNK_,_UNK_,Uchi,50,3,1,0,0,0,0,2768,2511,65534,65534,65534,65534
+boomerang,682,171,42,_UNK_,_UNK_,Lazy,50,3,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+deer decoration,3340,378,42,_UNK_,_UNK_,Lazy,50,8,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+wooden-plank sign,5636,279,42,_UNK_,_UNK_,Cranky,50,5,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+bone doorplate,4751,467,42,_UNK_,_UNK_,Lazy,50,3,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+paw-print doorplate,5716,466,42,_UNK_,_UNK_,Peppy,50,3,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+timber doorplate,5718,465,42,_UNK_,_UNK_,Snooty,50,2,1,0,0,0,0,2768,2943,65534,65534,65534,65534
+modern wood wall,4904,320,42,_UNK_,_UNK_,Snooty,0,5,5,5,0,0,0,2768,2767,2769,65534,65534,65534
+wooden-mosaic wall,4859,310,42,_UNK_,_UNK_,Normal,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+dark wooden-mosaic wall,4860,311,42,_UNK_,_UNK_,Uchi,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+wild-wood wall,4858,309,42,_UNK_,_UNK_,Cranky,0,15,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+brown herringbone wall,4804,312,42,_UNK_,_UNK_,Uchi,0,15,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+chocolate herringbone wall,4805,313,42,_UNK_,_UNK_,Smug,0,15,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+wooden-knot wall,4911,319,42,_UNK_,_UNK_,Smug,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+cabin wall,4840,315,42,_UNK_,_UNK_,Peppy,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+stacked-wood wall,4844,314,42,_UNK_,_UNK_,Jock,0,15,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+log pack,7498,638,42,_UNK_,_UNK_,Jock,0,3,5,0,0,0,0,2768,2769,65534,65534,65534,65534
+corral fence,4349,269,42,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+vertical-board fence,3402,100,42,_UNK_,_UNK_,Not from Villagers,0,8,0,0,0,0,0,2768,65534,65534,65534,65534,65534
+country fence,4350,268,42,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+spiky fence,4358,553,42,_UNK_,_UNK_,Not from Villagers,0,8,0,0,0,0,0,2769,65534,65534,65534,65534,65534
+barbed-wire fence,5213,561,42,_UNK_,_UNK_,Not from Villagers,0,4,2,0,0,0,0,2769,2511,65534,65534,65534,65534
+simple wooden fence,11711,656,42,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+lattice fence,11712,657,42,_UNK_,_UNK_,Not from Villagers,0,8,0,0,0,0,0,2767,65534,65534,65534,65534,65534
+imperial fence,4354,550,42,_UNK_,_UNK_,Not from Villagers,0,6,4,0,0,0,0,2768,2767,65534,65534,65534,65534
+recycled-can thumb piano,7045,504,45,_UNK_,_UNK_,Not from Villagers,0,1,1,1,0,0,0,3466,2768,2511,65534,65534,65534
+tire toy,2329,78,45,_UNK_,_UNK_,Not from Villagers,0,1,0,0,0,0,0,3470,65534,65534,65534,65534,65534
+tire stack,1189,60,45,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,3470,65534,65534,65534,65534,65534
+trash bags,1823,66,45,_UNK_,_UNK_,Not from Villagers,0,1,1,1,0,0,0,3466,3469,3470,65534,65534,65534
+garbage-heap wall,5229,301,45,_UNK_,_UNK_,Not from Villagers,0,2,2,2,0,0,0,3466,3469,3470,65534,65534,65534
+garbage-heap flooring,5236,486,45,_UNK_,_UNK_,Not from Villagers,0,2,2,2,0,0,0,3466,3469,3470,65534,65534,65534
+recycled boots,12326,664,45,_UNK_,_UNK_,Not from Villagers,0,2,0,0,0,0,0,3469,65534,65534,65534,65534,65534
+modeling clay,7258,574,16,_UNK_,_UNK_,Cranky,0,2,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+unglazed dish set,4025,120,16,_UNK_,_UNK_,Snooty,0,3,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+classic pitcher,4073,192,16,_UNK_,_UNK_,Snooty,0,4,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+pot,2559,37,16,_UNK_,_UNK_,Cranky,0,5,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+aroma pot,1753,30,16,_UNK_,_UNK_,Snooty,0,3,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+raccoon figurine,7452,520,16,_UNK_,_UNK_,Cranky,0,6,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+brick oven,1157,58,16,_UNK_,_UNK_,Not from Villagers,0,8,2,6,0,0,0,3090,2511,2768,65534,65534,65534
+brick well,3776,408,16,_UNK_,_UNK_,Not from Villagers,0,8,5,1,0,0,0,3090,2768,3082,65534,65534,65534
+silo,7247,598,16,_UNK_,_UNK_,Not from Villagers,0,12,6,12,12,0,0,2511,2769,3090,2502,65534,65534
+brick fence,3080,99,16,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,3090,65534,65534,65534,65534,65534
+stone stool,3398,104,17,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+stone table,3397,105,17,_UNK_,_UNK_,Lazy,0,8,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+birdbath,331,42,17,_UNK_,_UNK_,Snooty,0,6,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+drinking fountain,2319,77,17,_UNK_,_UNK_,Not from Villagers,0,8,2,0,0,0,0,2502,2511,65534,65534,65534,65534
+fountain,8031,599,17,_UNK_,_UNK_,Not from Villagers,0,1,20,8,0,0,0,2319,2502,2511,65534,65534,65534
+garden rock,729,48,17,_UNK_,_UNK_,Lazy,0,15,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+flat garden rock,12206,646,17,_UNK_,_UNK_,Snooty,0,20,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+mossy garden rock,12208,647,17,_UNK_,_UNK_,Lazy,0,15,15,0,0,0,0,2502,2624,65534,65534,65534,65534
+tall garden rock,730,49,17,_UNK_,_UNK_,Snooty,0,60,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+stone arch,11941,652,17,_UNK_,_UNK_,Not from Villagers,0,90,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+sauna heater,3689,374,17,_UNK_,_UNK_,Lazy,0,6,3,3,0,0,0,2502,2511,2768,65534,65534,65534
+simple well,2754,36,17,_UNK_,_UNK_,Not from Villagers,0,15,1,0,0,0,0,2502,3082,65534,65534,65534,65534
+outdoor bath,1111,410,17,_UNK_,_UNK_,Not from Villagers,0,20,1,0,0,0,0,2502,2099,65534,65534,65534,65534
+wave breaker,665,55,17,_UNK_,_UNK_,Not from Villagers,0,10,10,0,0,0,0,2502,3090,65534,65534,65534,65534
+western-style stone,3446,518,17,_UNK_,_UNK_,Normal,100,30,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+zen-style stone,7317,568,17,_UNK_,_UNK_,Lazy,100,30,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+stone lion-dog,7795,570,17,_UNK_,_UNK_,Smug,100,24,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+stone tablet,11943,651,17,_UNK_,_UNK_,Not from Villagers,0,12,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+tall lantern,676,653,17,_UNK_,_UNK_,Smug,100,18,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+pond stone,7393,513,17,_UNK_,_UNK_,Snooty,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+cherry-blossom pond stone,7409,511,17,_UNK_,_UNK_,Not from Villagers,0,10,3,0,0,0,0,2502,5859,65534,65534,65534,65534
+maple-leaf pond stone,7408,512,17,_UNK_,_UNK_,Not from Villagers,0,10,3,0,0,0,0,2502,7374,65534,65534,65534,65534
+fossil doorplate,5719,464,17,_UNK_,_UNK_,Jock,50,1,2,0,0,0,0,2579,2502,65534,65534,65534,65534
+stone wall,5216,318,17,_UNK_,_UNK_,Smug,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+rustic-stone wall,4813,324,17,_UNK_,_UNK_,Snooty,0,5,5,0,0,0,0,2502,3090,65534,65534,65534,65534
+basement flooring,4797,474,17,_UNK_,_UNK_,Smug,0,10,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+stone fence,5212,266,17,_UNK_,_UNK_,Not from Villagers,0,4,0,0,0,0,0,2502,65534,65534,65534,65534,65534
+iron-and-stone fence,5206,555,17,_UNK_,_UNK_,Not from Villagers,0,6,3,0,0,0,0,2502,2511,65534,65534,65534,65534
+zen fence,5207,556,17,_UNK_,_UNK_,Not from Villagers,0,3,3,3,0,0,0,2511,3090,2502,65534,65534,65534
+iron garden chair,1626,64,45,_UNK_,_UNK_,Uchi,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron garden table,1627,65,45,_UNK_,_UNK_,Uchi,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron garden bench,1625,63,45,_UNK_,_UNK_,Uchi,0,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron worktable,3560,126,45,_UNK_,_UNK_,Uchi,0,10,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron closet,9642,573,45,_UNK_,_UNK_,Uchi,0,12,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron shelf,3563,128,45,_UNK_,_UNK_,Uchi,0,14,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron hanger stand,3561,365,45,_UNK_,_UNK_,Cranky,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+standard umbrella stand,3445,169,45,_UNK_,_UNK_,Cranky,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+frying pan,4104,199,45,_UNK_,_UNK_,Not from Villagers,0,2,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+gong,4075,393,45,_UNK_,_UNK_,Cranky,0,6,5,0,0,0,0,2511,2768,65534,65534,65534,65534
+water pump,2326,389,45,_UNK_,_UNK_,Lazy,0,2,6,0,0,0,0,2511,3090,65534,65534,65534,65534
+jail bars,5931,435,45,_UNK_,_UNK_,Cranky,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+kettlebell,7535,600,45,_UNK_,_UNK_,Jock,0,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+barbell,4078,395,45,_UNK_,_UNK_,Jock,0,10,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron frame,2553,79,45,_UNK_,_UNK_,Jock,0,20,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+kettle bathtub,4008,490,45,_UNK_,_UNK_,Cranky,0,8,2,1,0,0,0,2511,2768,1429,65534,65534,65534
+manhole cover,144,277,45,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron wall lamp,3559,122,45,_UNK_,_UNK_,Not from Villagers,0,4,2,0,0,0,0,2511,3090,65534,65534,65534,65534
+iron wall rack,3562,123,45,_UNK_,_UNK_,Smug,50,3,1,0,0,0,0,2511,3090,65534,65534,65534,65534
+iron doorplate,4752,468,45,_UNK_,_UNK_,Uchi,50,2,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+crest doorplate,5717,469,45,_UNK_,_UNK_,Smug,50,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+steel-frame wall,4801,325,45,_UNK_,_UNK_,Smug,0,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+steel flooring,4960,489,45,_UNK_,_UNK_,Smug,0,7,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+knight's helmet,5334,641,45,_UNK_,_UNK_,Cranky,100,5,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron armor,4588,640,45,_UNK_,_UNK_,Cranky,100,8,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+armor shoes,5472,642,45,_UNK_,_UNK_,Cranky,100,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+rope fence,4352,549,45,_UNK_,_UNK_,Not from Villagers,0,4,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron fence,4357,267,45,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,2511,65534,65534,65534,65534,65534
+iron wand,7592,540,45,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,2511,5983,65534,65534,65534,65534
+ironwood chair,3193,83,15,_UNK_,_UNK_,Smug,0,3,2,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood cart,3195,85,15,_UNK_,_UNK_,Smug,0,6,4,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood dresser,3196,86,15,_UNK_,_UNK_,Snooty,0,7,4,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood table,3191,35,15,_UNK_,_UNK_,Cranky,0,12,6,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood low table,3194,84,15,_UNK_,_UNK_,Snooty,0,6,4,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood bed,3200,87,15,_UNK_,_UNK_,Smug,0,20,10,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood cupboard,3271,92,15,_UNK_,_UNK_,Snooty,100,12,6,1,0,0,0,2768,2511,3196,65534,65534,65534
+ironwood kitchenette,3270,91,15,_UNK_,_UNK_,Not from Villagers,0,4,3,1,1,0,0,2768,2511,3196,3618,65534,65534
+ironwood DIY workbench,3943,125,15,_UNK_,_UNK_,Cranky,100,12,6,1,0,0,0,2768,2511,3122,65534,65534,65534
+garden bench,3509,124,15,_UNK_,_UNK_,Snooty,0,12,4,0,0,0,0,2768,2511,65534,65534,65534,65534
+ironwood clock,3275,94,15,_UNK_,_UNK_,Smug,50,2,2,0,0,0,0,2768,2511,65534,65534,65534,65534
+gold bars,3065,81,47,_UNK_,_UNK_,Snooty,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden dishes,3810,131,47,_UNK_,_UNK_,Snooty,0,1,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden candlestick,3772,130,47,_UNK_,_UNK_,Smug,0,2,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden seat,3473,133,47,_UNK_,_UNK_,Snooty,200,5,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden casket,8825,569,47,_UNK_,_UNK_,Smug,200,8,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden toilet,3472,262,47,_UNK_,_UNK_,Snooty,200,6,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+lucky gold cat,9814,578,47,_UNK_,_UNK_,Snooty,100,2,1,0,0,0,0,2505,131,65534,65534,65534,65534
+golden gears,11261,595,47,_UNK_,_UNK_,Smug,50,1,3,0,0,0,0,2505,2511,65534,65534,65534,65534
+golden dung beetle,5941,601,47,_UNK_,_UNK_,Lazy,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden arowana model,11260,602,47,_UNK_,_UNK_,Lazy,100,3,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden wall,4894,299,47,_UNK_,_UNK_,Smug,100,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+gold-screen wall,4820,298,47,_UNK_,_UNK_,Smug,100,2,1,0,0,0,0,2505,4819,65534,65534,65534,65534
+golden flooring,5021,475,47,_UNK_,_UNK_,Smug,100,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+gold helmet,5346,644,47,_UNK_,_UNK_,Smug,200,5,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+gold armor,4590,566,47,_UNK_,_UNK_,Smug,100,8,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+gold-armor shoes,5524,643,47,_UNK_,_UNK_,Smug,200,4,0,0,0,0,0,2505,65534,65534,65534,65534,65534
+golden wand,7591,539,47,_UNK_,_UNK_,Not from Villagers,0,2,3,0,0,0,0,2505,5983,65534,65534,65534,65534
+hay bed,3675,167,14,_UNK_,_UNK_,Not from Villagers,0,20,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+succulent plant,132,190,14,_UNK_,_UNK_,Not from Villagers,0,10,1,0,0,0,0,2624,3466,65534,65534,65534,65534
+terrarium,3773,391,14,_UNK_,_UNK_,Normal,0,12,2,0,0,0,0,2624,2511,65534,65534,65534,65534
+floral swag,4027,121,14,_UNK_,_UNK_,Normal,50,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+potted ivy,3785,214,14,_UNK_,_UNK_,Not from Villagers,0,5,5,0,0,0,0,2624,3090,65534,65534,65534,65534
+hanging terrarium,3775,396,14,_UNK_,_UNK_,Peppy,50,12,4,0,0,0,0,2624,2511,65534,65534,65534,65534
+jungle wall,5457,326,14,_UNK_,_UNK_,Jock,0,15,3,3,3,0,0,2624,2768,2769,2767,65534,65534
+woodland wall,5223,471,14,_UNK_,_UNK_,Normal,0,15,9,0,0,0,0,2624,2767,65534,65534,65534,65534
+jungle flooring,5515,470,14,_UNK_,_UNK_,Jock,0,10,10,0,0,0,0,2624,3090,65534,65534,65534,65534
+backyard lawn,4979,487,14,_UNK_,_UNK_,Peppy,0,30,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+leaf,4682,261,14,_UNK_,_UNK_,Jock,0,5,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+leaf mask,7291,635,14,_UNK_,_UNK_,Peppy,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+leaf umbrella,6840,456,14,_UNK_,_UNK_,Uchi,0,15,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+straw umbrella hat,7254,606,14,_UNK_,_UNK_,Smug,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+bamboo hat,5143,607,14,_UNK_,_UNK_,Cranky,0,10,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+traditional straw coat,5291,604,14,_UNK_,_UNK_,Normal,0,8,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+grass skirt,4333,603,14,_UNK_,_UNK_,Normal,0,7,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+green grass skirt,8907,605,14,_UNK_,_UNK_,Peppy,0,7,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+knitted-grass backpack,7511,636,14,_UNK_,_UNK_,Normal,0,20,0,0,0,0,0,2624,65534,65534,65534,65534,65534
+straw fence,4356,552,14,_UNK_,_UNK_,Not from Villagers,0,10,3,0,0,0,0,2624,2768,65534,65534,65534,65534
+orange end table,3975,185,43,_UNK_,_UNK_,Lazy,100,10,4,0,0,0,0,2214,2768,65534,65534,65534,65534
+orange wall-mounted clock,3976,184,43,_UNK_,_UNK_,Lazy,100,10,2,0,0,0,0,2214,2768,65534,65534,65534,65534
+orange wall,4915,303,43,_UNK_,_UNK_,Lazy,100,20,0,0,0,0,0,2214,65534,65534,65534,65534,65534
+orange rug,7330,544,43,_UNK_,_UNK_,Lazy,100,6,0,0,0,0,0,2214,65534,65534,65534,65534,65534
+orange umbrella,6912,625,43,_UNK_,_UNK_,Lazy,100,7,0,0,0,0,0,2214,65534,65534,65534,65534,65534
+orange hat,5275,624,43,_UNK_,_UNK_,Lazy,100,5,0,0,0,0,0,2214,65534,65534,65534,65534,65534
+orange dress,3288,626,43,_UNK_,_UNK_,Lazy,100,8,0,0,0,0,0,2214,65534,65534,65534,65534,65534
+cherry speakers,4011,161,13,_UNK_,_UNK_,Peppy,100,10,2,0,0,0,0,2287,2511,65534,65534,65534,65534
+cherry lamp,4012,162,13,_UNK_,_UNK_,Peppy,100,10,2,0,0,0,0,2287,3090,65534,65534,65534,65534
+cherry wall,4919,307,13,_UNK_,_UNK_,Peppy,100,20,0,0,0,0,0,2287,65534,65534,65534,65534,65534
+cherry rug,7328,543,13,_UNK_,_UNK_,Peppy,100,6,0,0,0,0,0,2287,65534,65534,65534,65534,65534
+cherry umbrella,9949,614,13,_UNK_,_UNK_,Peppy,100,7,0,0,0,0,0,2287,65534,65534,65534,65534,65534
+cherry hat,9873,613,13,_UNK_,_UNK_,Peppy,100,5,0,0,0,0,0,2287,65534,65534,65534,65534,65534
+cherry dress,9838,612,13,_UNK_,_UNK_,Peppy,100,8,0,0,0,0,0,2287,65534,65534,65534,65534,65534
+peach chair,4127,187,40,_UNK_,_UNK_,Normal,100,10,5,0,0,0,0,2286,2768,65534,65534,65534,65534
+peach surprise box,4128,188,40,_UNK_,_UNK_,Normal,100,10,4,0,0,0,0,2286,2767,65534,65534,65534,65534
+peach wall,4918,306,40,_UNK_,_UNK_,Normal,100,20,0,0,0,0,0,2286,65534,65534,65534,65534,65534
+peach rug,7331,545,40,_UNK_,_UNK_,Normal,100,6,0,0,0,0,0,2286,65534,65534,65534,65534,65534
+peach umbrella,9947,620,40,_UNK_,_UNK_,Normal,100,7,0,0,0,0,0,2286,65534,65534,65534,65534,65534
+peach hat,9874,619,40,_UNK_,_UNK_,Normal,100,5,0,0,0,0,0,2286,65534,65534,65534,65534,65534
+peach dress,9839,618,40,_UNK_,_UNK_,Normal,100,8,0,0,0,0,0,2286,65534,65534,65534,65534,65534
+pear wardrobe,1263,9,14,_UNK_,_UNK_,Jock,100,10,5,0,0,0,0,2285,2768,65534,65534,65534,65534
+pear bed,4546,186,14,_UNK_,_UNK_,Jock,100,10,6,0,0,0,0,2285,2767,65534,65534,65534,65534
+pear wall,4917,305,14,_UNK_,_UNK_,Jock,100,20,0,0,0,0,0,2285,65534,65534,65534,65534,65534
+pear rug,7332,546,14,_UNK_,_UNK_,Jock,100,6,0,0,0,0,0,2285,65534,65534,65534,65534,65534
+pear umbrella,9950,617,14,_UNK_,_UNK_,Jock,100,7,0,0,0,0,0,2285,65534,65534,65534,65534,65534
+pear hat,9872,616,14,_UNK_,_UNK_,Jock,100,5,0,0,0,0,0,2285,65534,65534,65534,65534,65534
+pear dress,9837,615,14,_UNK_,_UNK_,Jock,100,8,0,0,0,0,0,2285,65534,65534,65534,65534,65534
+apple chair,4134,189,12,_UNK_,_UNK_,Uchi,100,10,4,0,0,0,0,2213,2768,65534,65534,65534,65534
+juicy-apple TV,2596,6,12,_UNK_,_UNK_,Uchi,100,10,2,0,0,0,0,2213,2511,65534,65534,65534,65534
+apple wall,4916,304,12,_UNK_,_UNK_,Uchi,100,20,0,0,0,0,0,2213,65534,65534,65534,65534,65534
+apple rug,7327,542,12,_UNK_,_UNK_,Uchi,100,6,0,0,0,0,0,2213,65534,65534,65534,65534,65534
+apple umbrella,9948,623,12,_UNK_,_UNK_,Uchi,100,7,0,0,0,0,0,2213,65534,65534,65534,65534,65534
+apple hat,9871,622,12,_UNK_,_UNK_,Uchi,100,5,0,0,0,0,0,2213,65534,65534,65534,65534,65534
+apple dress,9836,621,12,_UNK_,_UNK_,Uchi,100,8,0,0,0,0,0,2213,65534,65534,65534,65534,65534
+coconut juice,3684,163,14,_UNK_,_UNK_,Snooty,0,1,0,0,0,0,0,2288,65534,65534,65534,65534,65534
+palm-tree lamp,7259,575,14,_UNK_,_UNK_,Snooty,0,4,4,4,0,0,0,2288,2768,3090,65534,65534,65534
+coconut wall planter,4130,405,14,_UNK_,_UNK_,Snooty,50,1,5,0,0,0,0,2288,2624,65534,65534,65534,65534
+fruit basket,975,56,46,_UNK_,_UNK_,Cranky,100,1,1,1,1,1,0,2213,2285,2287,2214,2286,65534
+infused-water dispenser,4107,400,46,_UNK_,_UNK_,Cranky,100,2,2,2,2,2,2,2213,2285,2287,2214,2286,2288
+fruit wreath,4378,223,46,_UNK_,_UNK_,Cranky,100,2,1,3,3,1,0,2213,2285,2287,2214,2286,65534
+beekeeper's hive,3406,204,43,_UNK_,_UNK_,Jock,0,3,5,0,0,0,0,3263,2768,65534,65534,65534,65534
+honeycomb wall,4865,296,43,_UNK_,_UNK_,Jock,0,6,0,0,0,0,0,3263,65534,65534,65534,65534,65534
+honeycomb flooring,4999,472,43,_UNK_,_UNK_,Jock,0,5,0,0,0,0,0,3263,65534,65534,65534,65534,65534
+stack of books,1759,196,13,_UNK_,_UNK_,Lazy,100,5,0,0,0,0,0,3582,65534,65534,65534,65534,65534
+tiny library,5635,278,13,_UNK_,_UNK_,Normal,100,3,5,0,0,0,0,3582,2768,65534,65534,65534,65534
+wooden bookshelf,4125,404,13,_UNK_,_UNK_,Lazy,100,5,10,0,0,0,0,3582,2768,65534,65534,65534,65534
+classic-library wall,4837,317,13,_UNK_,_UNK_,Normal,100,10,0,0,0,0,0,3582,65534,65534,65534,65534,65534
+magazine rack,1032,413,13,_UNK_,_UNK_,Peppy,100,2,4,0,0,0,0,3586,2768,65534,65534,65534,65534
+stacked magazines,1861,197,13,_UNK_,_UNK_,Peppy,100,6,0,0,0,0,0,3586,65534,65534,65534,65534,65534
+manga-library wall,4838,316,13,_UNK_,_UNK_,Peppy,100,10,0,0,0,0,0,3586,65534,65534,65534,65534,65534
+document stack,1750,462,13,_UNK_,_UNK_,Smug,100,1,0,0,0,0,0,4034,65534,65534,65534,65534,65534
+scattered papers,4034,463,13,_UNK_,_UNK_,Smug,100,1,0,0,0,0,0,1750,65534,65534,65534,65534,65534
+cardboard chair,7163,498,13,_UNK_,_UNK_,Lazy,0,1,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+cardboard sofa,7159,500,13,_UNK_,_UNK_,Peppy,0,2,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+cardboard table,7160,496,13,_UNK_,_UNK_,Peppy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+cardboard bed,7161,497,13,_UNK_,_UNK_,Lazy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+small cardboard boxes,3410,609,13,_UNK_,_UNK_,Peppy,0,2,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+medium cardboard boxes,3411,610,13,_UNK_,_UNK_,Lazy,0,4,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+large cardboard boxes,3412,611,13,_UNK_,_UNK_,Lazy,0,5,0,0,0,0,0,3672,65534,65534,65534,65534,65534
+pile of zen cushions,7048,521,13,_UNK_,_UNK_,Cranky,100,3,0,0,0,0,0,7047,65534,65534,65534,65534,65534
+oil-barrel bathtub,3819,394,13,_UNK_,_UNK_,Jock,100,1,1,2,0,0,0,1567,1429,2502,65534,65534,65534
+giant teddy bear,1504,577,13,_UNK_,_UNK_,Peppy,100,1,1,1,0,0,0,1499,1500,1501,65534,65534,65534
+street piano,11942,654,13,_UNK_,_UNK_,Uchi,100,1,1,0,0,0,0,1081,3965,65534,65534,65534,65534
+money flooring,4986,473,13,_UNK_,_UNK_,Snooty,100,1,0,0,0,0,0,2163,65534,65534,65534,65534,65534
+nova light,6826,429,48,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,5983,65534,65534,65534,65534,65534
+crescent-moon chair,6829,432,48,_UNK_,_UNK_,Not from Villagers,0,7,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+moon,1054,234,48,_UNK_,_UNK_,Not from Villagers,0,15,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+asteroid,1439,235,48,_UNK_,_UNK_,Not from Villagers,0,5,10,0,0,0,0,5983,2502,65534,65534,65534,65534
+astronaut suit,1445,236,48,_UNK_,_UNK_,Not from Villagers,0,5,5,0,0,0,0,5983,2511,65534,65534,65534,65534
+rocket,1441,409,48,_UNK_,_UNK_,Not from Villagers,0,10,20,0,0,0,0,5983,2511,65534,65534,65534,65534
+satellite,1443,379,48,_UNK_,_UNK_,Not from Villagers,0,10,15,0,0,0,0,5983,2511,65534,65534,65534,65534
+space shuttle,1444,381,48,_UNK_,_UNK_,Not from Villagers,0,5,10,0,0,0,0,5983,2511,65534,65534,65534,65534
+crewed spaceship,5676,434,48,_UNK_,_UNK_,Not from Villagers,0,10,20,0,0,0,0,5983,2511,65534,65534,65534,65534
+lunar lander,1440,386,48,_UNK_,_UNK_,Not from Villagers,0,10,15,0,0,0,0,5983,2511,65534,65534,65534,65534
+lunar rover,1442,373,48,_UNK_,_UNK_,Not from Villagers,0,10,10,4,0,0,0,5983,2511,3470,65534,65534,65534
+flying saucer,1447,233,48,_UNK_,_UNK_,Not from Villagers,0,15,10,0,0,0,0,5983,2511,65534,65534,65534,65534
+robot hero,1509,594,48,_UNK_,_UNK_,Not from Villagers,0,1,1,30,90,10,0,1441,4590,2389,2511,2505,65534
+star clock,7253,514,48,_UNK_,_UNK_,Not from Villagers,0,3,1,0,0,0,0,5983,2511,65534,65534,65534,65534
+starry garland,6827,430,48,_UNK_,_UNK_,Not from Villagers,0,10,0,0,0,0,0,5983,65534,65534,65534,65534,65534
+starry-sky wall,5500,294,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+starry wall,5528,286,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+sci-fi wall,5510,292,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+galaxy flooring,5269,482,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+lunar surface,4968,478,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+sci-fi flooring,5270,477,48,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5983,5984,65534,65534,65534,65534
+star head,9862,628,48,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,5983,65534,65534,65534,65534,65534
+star pochette,7489,627,48,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5983,65534,65534,65534,65534,65534
+star wand,2544,523,48,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,5984,5983,65534,65534,65534,65534
+Aries rocking chair,5954,367,48,_UNK_,_UNK_,Not from Villagers,0,3,2,1,5,0,0,5983,5988,2505,2502,65534,65534
+Taurus bathtub,5961,384,48,_UNK_,_UNK_,Not from Villagers,0,3,2,1,8,0,0,5983,5989,2505,2502,65534,65534
+Gemini closet,5960,377,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,6,0,0,5983,5990,2505,2502,65534,65534
+Cancer table,5959,371,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,3,0,0,5983,5991,2505,2502,65534,65534
+Leo sculpture,5964,407,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,3,0,0,5983,5992,2505,2502,65534,65534
+Virgo harp,5955,368,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,4,0,0,5983,5993,2505,2502,65534,65534
+Libra scale,3774,132,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,0,0,0,5983,5994,2505,65534,65534,65534
+Scorpio lamp,5962,380,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,5,0,0,5983,5995,2505,2502,65534,65534
+Sagittarius arrow,5958,376,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,0,0,0,5983,5996,2505,65534,65534,65534
+Capricorn ornament,5957,370,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,12,0,0,5983,5985,2505,2502,65534,65534
+Aquarius urn,5956,366,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,5,0,0,5983,5986,2505,2502,65534,65534
+Pisces lamp,5963,399,48,_UNK_,_UNK_,Not from Villagers,0,3,2,2,4,0,0,5983,5987,2505,2502,65534,65534
+bamboo stool,10742,590,14,_UNK_,_UNK_,Snooty,50,5,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo bench,710,46,14,_UNK_,_UNK_,Normal,50,8,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo candleholder,3554,153,14,_UNK_,_UNK_,Snooty,50,3,2,0,0,0,0,2501,3090,65534,65534,65534,65534
+bamboo partition,3553,157,14,_UNK_,_UNK_,Cranky,50,7,6,0,0,0,0,2501,2502,65534,65534,65534,65534
+bamboo sphere,5976,420,14,_UNK_,_UNK_,Normal,50,3,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo shelf,3551,155,14,_UNK_,_UNK_,Snooty,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo lunch box,5978,421,14,_UNK_,_UNK_,Snooty,50,4,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+hearth,722,217,14,_UNK_,_UNK_,Not from Villagers,0,2,5,4,5,0,0,2501,2511,3090,2769,65534,65534
+deer scare,677,359,14,_UNK_,_UNK_,Cranky,50,3,8,3,0,0,0,2501,2502,2624,65534,65534,65534
+bamboo basket,3658,152,14,_UNK_,_UNK_,Snooty,50,7,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo floor lamp,3557,159,14,_UNK_,_UNK_,Normal,50,8,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo speaker,10743,591,14,_UNK_,_UNK_,Snooty,50,3,1,0,0,0,0,2501,2511,65534,65534,65534,65534
+bamboo stopblock,3556,154,14,_UNK_,_UNK_,Jock,50,3,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo drum,4093,397,14,_UNK_,_UNK_,Jock,50,3,2,0,0,0,0,2501,2767,65534,65534,65534,65534
+bamboo wall decoration,3558,151,14,_UNK_,_UNK_,Jock,50,1,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo wall,4833,322,14,_UNK_,_UNK_,Cranky,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo flooring,4964,485,14,_UNK_,_UNK_,Cranky,50,15,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+dark bamboo rug,11114,672,14,_UNK_,_UNK_,Cranky,50,6,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo lattice fence,3403,101,14,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,2501,65534,65534,65534,65534,65534
+bamboo doll,3555,158,14,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534
+green-leaf pile,4269,587,14,_UNK_,_UNK_,Not from Villagers,0,1,10,0,0,0,0,5729,2624,65534,65534,65534,65534
+bamboo noodle slide,5979,424,14,_UNK_,_UNK_,Not from Villagers,0,7,3,0,0,0,0,5729,2768,65534,65534,65534,65534
+steamer-basket set,3344,382,14,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534
+bamboo-shoot lamp,5977,385,14,_UNK_,_UNK_,Not from Villagers,0,4,5,4,0,0,0,5729,2295,3090,65534,65534,65534
+bamboo-grove wall,4853,300,14,_UNK_,_UNK_,Not from Villagers,0,7,3,0,0,0,0,5729,2295,65534,65534,65534,65534
+light bamboo rug,11113,671,14,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534
+basket pack,7506,645,14,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5729,65534,65534,65534,65534,65534
+bamboo wand,7590,538,14,_UNK_,_UNK_,Not from Villagers,0,6,3,0,0,0,0,5729,5983,65534,65534,65534,65534
+cherry-blossom-petal pile,6032,418,40,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,5859,65534,65534,65534,65534,65534
+cherry-blossom bonsai,6030,375,40,_UNK_,_UNK_,Not from Villagers,0,6,2,3,3,0,0,5859,2769,2624,3090,65534,65534
+cherry-blossom branches,6031,419,40,_UNK_,_UNK_,Not from Villagers,0,8,4,5,0,0,0,5859,2500,3090,65534,65534,65534
+outdoor picnic set,6033,422,40,_UNK_,_UNK_,Not from Villagers,0,10,0,0,0,0,0,5859,65534,65534,65534,65534,65534
+blossom-viewing lantern,6831,427,40,_UNK_,_UNK_,Not from Villagers,0,6,4,0,0,0,0,5859,2769,65534,65534,65534,65534
+cherry-blossom clock,6832,426,40,_UNK_,_UNK_,Not from Villagers,0,5,1,0,0,0,0,5859,2511,65534,65534,65534,65534
+cherry-blossom-trees wall,7205,480,40,_UNK_,_UNK_,Not from Villagers,0,10,5,0,0,0,0,5859,2769,65534,65534,65534,65534
+sakura-wood wall,4947,321,40,_UNK_,_UNK_,Not from Villagers,0,5,10,0,0,0,0,5859,2768,65534,65534,65534,65534
+cherry-blossom flooring,7204,479,40,_UNK_,_UNK_,Not from Villagers,0,10,20,0,0,0,0,5859,2624,65534,65534,65534,65534
+sakura-wood flooring,5056,649,40,_UNK_,_UNK_,Not from Villagers,0,5,10,0,0,0,0,5859,2768,65534,65534,65534,65534
+cherry-blossom umbrella,9945,629,40,_UNK_,_UNK_,Not from Villagers,0,7,0,0,0,0,0,5859,65534,65534,65534,65534,65534
+cherry-blossom pochette,7490,630,40,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5859,65534,65534,65534,65534,65534
+cherry-blossom wand,7589,537,40,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,5859,5983,65534,65534,65534,65534
+shell stool,3979,177,46,_UNK_,_UNK_,Uchi,0,5,0,0,0,0,0,1382,65534,65534,65534,65534,65534
+shell fountain,3982,180,46,_UNK_,_UNK_,Lazy,0,5,3,0,0,0,0,1381,2502,65534,65534,65534,65534
+shell table,3980,178,46,_UNK_,_UNK_,Peppy,0,7,3,0,0,0,0,1379,3090,65534,65534,65534,65534
+shell bed,3983,181,46,_UNK_,_UNK_,Peppy,0,5,3,4,0,0,0,1381,3090,2502,65534,65534,65534
+shell partition,3978,176,46,_UNK_,_UNK_,Uchi,0,4,4,0,0,0,0,1375,1376,65534,65534,65534,65534
+shell arch,3977,175,46,_UNK_,_UNK_,Lazy,100,3,3,3,3,3,3,1374,1375,1379,1380,1381,1382
+shell lamp,3984,182,46,_UNK_,_UNK_,Uchi,0,2,3,0,0,0,0,1381,3090,65534,65534,65534,65534
+shell speaker,5150,200,46,_UNK_,_UNK_,Uchi,0,3,2,0,0,0,0,1376,2511,65534,65534,65534,65534
+sandy-beach flooring,4970,669,46,_UNK_,_UNK_,Jock,0,1,1,1,1,1,1,1374,1375,1379,1380,1381,1382
+shell rug,7362,668,46,_UNK_,_UNK_,Peppy,0,3,0,0,0,0,0,1381,65534,65534,65534,65534,65534
+shell wreath,4376,219,46,_UNK_,_UNK_,Not from Villagers,0,1,1,1,1,1,1,5982,1374,1379,1380,1381,1382
+tropical vista,5661,666,46,_UNK_,_UNK_,Not from Villagers,0,5,0,0,0,0,0,5982,65534,65534,65534,65534,65534
+underwater wall,5508,665,46,_UNK_,_UNK_,Not from Villagers,0,3,5,0,0,0,0,5982,1380,65534,65534,65534,65534
+underwater flooring,5268,564,46,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,5982,1380,65534,65534,65534,65534
+starry-sands flooring,7239,667,46,_UNK_,_UNK_,Not from Villagers,0,3,1,0,0,0,0,5982,4970,65534,65534,65534,65534
+water flooring,5030,565,46,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5982,65534,65534,65534,65534,65534
+shellfish pochette,7494,634,46,_UNK_,_UNK_,Not from Villagers,0,2,6,0,0,0,0,1381,5982,65534,65534,65534,65534
+shell wand,7586,534,46,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,5982,5983,65534,65534,65534,65534
+yellow-leaf pile,4270,588,42,_UNK_,_UNK_,Not from Villagers,0,3,5,0,0,0,0,5727,2624,65534,65534,65534,65534
+red-leaf pile,4271,589,42,_UNK_,_UNK_,Not from Villagers,0,3,4,0,0,0,0,7374,2624,65534,65534,65534,65534
+pile of leaves,1023,586,42,_UNK_,_UNK_,Not from Villagers,0,3,5,0,0,0,0,5728,2624,65534,65534,65534,65534
+leaf campfire,7788,509,42,_UNK_,_UNK_,Not from Villagers,0,3,5,3,0,0,0,5728,2624,2500,65534,65534,65534
+leaf stool,7390,519,42,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,7374,2768,65534,65534,65534,65534
+traditional balancing toy,5975,411,42,_UNK_,_UNK_,Not from Villagers,0,4,2,0,0,0,0,5727,2769,65534,65534,65534,65534
+tree's bounty lamp,6078,415,42,_UNK_,_UNK_,Not from Villagers,0,6,4,0,0,0,0,5727,3090,65534,65534,65534,65534
+tree's bounty little tree,6079,416,42,_UNK_,_UNK_,Not from Villagers,0,6,4,1,0,0,0,5728,5727,2769,65534,65534,65534
+tree's bounty big tree,6080,417,42,_UNK_,_UNK_,Not from Villagers,0,5,4,4,8,4,0,5728,5727,7374,2500,3090,65534
+tree's bounty arch,6081,423,42,_UNK_,_UNK_,Not from Villagers,0,4,5,5,15,0,0,5728,5727,7374,2500,65534,65534
+pine bonsai tree,3802,592,42,_UNK_,_UNK_,Not from Villagers,0,8,5,0,0,0,0,5728,3090,65534,65534,65534,65534
+tree's bounty mobile,6075,414,42,_UNK_,_UNK_,Not from Villagers,0,2,3,3,0,0,0,5728,5727,2500,65534,65534,65534
+autumn wall,4905,290,42,_UNK_,_UNK_,Not from Villagers,0,10,5,5,0,0,0,7374,2768,2624,65534,65534,65534
+colored-leaves flooring,4990,476,42,_UNK_,_UNK_,Not from Villagers,0,10,15,0,0,0,0,7374,2624,65534,65534,65534,65534
+maple-leaf umbrella,7169,541,42,_UNK_,_UNK_,Not from Villagers,0,7,0,0,0,0,0,7374,65534,65534,65534,65534,65534
+maple-leaf pochette,7491,631,42,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,7374,65534,65534,65534,65534,65534
+acorn pochette,7492,632,42,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,5727,65534,65534,65534,65534,65534
+mush low stool,4708,220,43,_UNK_,_UNK_,Not from Villagers,0,2,0,0,0,0,0,3277,65534,65534,65534,65534,65534
+mush log,3808,136,43,_UNK_,_UNK_,Not from Villagers,0,2,1,0,0,0,0,3278,4038,65534,65534,65534,65534
+mush table,808,32,43,_UNK_,_UNK_,Not from Villagers,0,2,6,0,0,0,0,3279,2768,65534,65534,65534,65534
+mush lamp,805,51,43,_UNK_,_UNK_,Not from Villagers,0,1,5,0,0,0,0,3278,3090,65534,65534,65534,65534
+mush parasol,3805,139,43,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,3279,65534,65534,65534,65534,65534
+mush partition,3806,138,43,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,3278,65534,65534,65534,65534,65534
+mushroom wreath,4726,221,43,_UNK_,_UNK_,Not from Villagers,0,10,1,1,1,0,0,2500,3277,3278,3279,65534,65534
+forest wall,7187,484,43,_UNK_,_UNK_,Not from Villagers,0,2,2,2,2,10,0,3276,3277,3278,3279,2768,65534
+mush wall,5164,308,43,_UNK_,_UNK_,Not from Villagers,0,1,1,1,1,0,0,3276,3277,3278,3279,65534,65534
+forest flooring,7186,488,43,_UNK_,_UNK_,Not from Villagers,0,1,2,2,2,10,0,3280,3277,3278,3279,2624,65534
+mush umbrella,7174,648,43,_UNK_,_UNK_,Not from Villagers,0,3,0,0,0,0,0,3279,65534,65534,65534,65534,65534
+mushroom wand,7588,536,43,_UNK_,_UNK_,Not from Villagers,0,3,3,0,0,0,0,3278,5983,65534,65534,65534,65534
+frozen-treat set,4279,194,15,_UNK_,_UNK_,Not from Villagers,0,1,1,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen chair,3503,142,15,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen counter,3505,143,15,_UNK_,_UNK_,Not from Villagers,0,1,5,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen table,3497,146,15,_UNK_,_UNK_,Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen bed,3502,149,15,_UNK_,_UNK_,Not from Villagers,0,1,10,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen partition,3498,147,15,_UNK_,_UNK_,Not from Villagers,0,1,6,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen arch,3499,140,15,_UNK_,_UNK_,Not from Villagers,0,1,10,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen pillar,3500,148,15,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen sculpture,3501,141,15,_UNK_,_UNK_,Not from Villagers,0,1,4,0,0,0,0,3540,3539,65534,65534,65534,65534
+frozen tree,3504,145,15,_UNK_,_UNK_,Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534
+three-tiered snowperson,5337,364,15,_UNK_,_UNK_,Not from Villagers,0,1,6,2,0,0,0,3540,3539,2500,65534,65534,65534
+ice wall,5505,293,15,_UNK_,_UNK_,Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534
+ice flooring,5516,288,15,_UNK_,_UNK_,Not from Villagers,0,1,8,0,0,0,0,3540,3539,65534,65534,65534,65534
+snowperson head,8609,637,15,_UNK_,_UNK_,Not from Villagers,0,1,5,0,0,0,0,3540,3539,65534,65534,65534,65534
+ice wand,7585,533,15,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3540,5983,65534,65534,65534,65534
+snowflake wreath,4375,222,15,_UNK_,_UNK_,Not from Villagers,0,4,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+ski-slope wall,5498,295,15,_UNK_,_UNK_,Not from Villagers,0,8,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+iceberg wall,5662,302,15,_UNK_,_UNK_,Not from Villagers,0,10,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+snowflake wall,4855,323,15,_UNK_,_UNK_,Not from Villagers,0,12,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+ski-slope flooring,4989,483,15,_UNK_,_UNK_,Not from Villagers,0,8,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+iceberg flooring,5253,289,15,_UNK_,_UNK_,Not from Villagers,0,10,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+snowflake pochette,7493,633,15,_UNK_,_UNK_,Not from Villagers,0,6,0,0,0,0,0,3539,65534,65534,65534,65534,65534
+festive top set,12230,650,46,_UNK_,_UNK_,Not from Villagers,0,2,1,0,0,0,0,5732,2769,65534,65534,65534,65534
+holiday candle,891,372,46,_UNK_,_UNK_,Not from Villagers,0,5,5,0,0,0,0,5730,2624,65534,65534,65534,65534
+tabletop festive tree,4067,388,46,_UNK_,_UNK_,Not from Villagers,0,5,3,2,0,0,0,5732,2500,3090,65534,65534,65534
+festive tree,3991,274,46,_UNK_,_UNK_,Not from Villagers,0,3,3,2,5,0,0,5730,5731,5732,2768,65534,65534
+big festive tree,3966,273,46,_UNK_,_UNK_,Not from Villagers,0,6,6,4,5,5,0,5730,5731,5732,2768,3090,65534
+illuminated snowflakes,4131,406,46,_UNK_,_UNK_,Not from Villagers,0,9,3,0,0,0,0,5731,2511,65534,65534,65534,65534
+illuminated present,4108,401,46,_UNK_,_UNK_,Not from Villagers,0,3,4,3,0,0,0,5730,5732,2511,65534,65534,65534
+illuminated reindeer,4074,392,46,_UNK_,_UNK_,Not from Villagers,0,6,5,0,0,0,0,5732,2511,65534,65534,65534,65534
+illuminated tree,4066,203,46,_UNK_,_UNK_,Not from Villagers,0,8,8,6,6,0,0,5730,5731,5732,2511,65534,65534
+ornament mobile,6818,433,46,_UNK_,_UNK_,Not from Villagers,0,1,1,1,4,0,0,5730,5731,5732,2500,65534,65534
+ornament wreath,4377,226,46,_UNK_,_UNK_,Not from Villagers,0,6,2,0,0,0,0,5731,5732,65534,65534,65534,65534
+Jingle wall,5230,291,46,_UNK_,_UNK_,Not from Villagers,0,5,5,5,5,0,0,5730,5731,5732,3090,65534,65534
+windflower fan,7233,503,14,_UNK_,_UNK_,Lazy,50,3,2,0,0,0,0,3723,2511,65534,65534,65534,65534
+mum cushion,7232,505,14,_UNK_,_UNK_,Peppy,50,3,10,0,0,0,0,3758,2624,65534,65534,65534,65534
+cosmos shower,7230,501,14,_UNK_,_UNK_,Snooty,50,5,3,0,0,0,0,2867,2511,65534,65534,65534,65534
+tulip surprise box,7231,495,14,_UNK_,_UNK_,Jock,50,5,3,0,0,0,0,2883,2767,65534,65534,65534,65534
+rose bed,7235,507,14,_UNK_,_UNK_,Smug,50,10,5,0,0,0,0,2935,2768,65534,65534,65534,65534
+pansy table,7237,516,14,_UNK_,_UNK_,Normal,50,5,3,0,0,0,0,2915,2769,65534,65534,65534,65534
+hyacinth lamp,7234,506,14,_UNK_,_UNK_,Uchi,50,5,3,0,0,0,0,3751,3090,65534,65534,65534,65534
+lily record player,7236,515,14,_UNK_,_UNK_,Cranky,50,5,3,3,0,0,0,2979,2511,2768,65534,65534,65534
+flower stand,7527,608,14,_UNK_,_UNK_,Uchi,100,1,2,2,2,1,4,2935,2943,2947,2979,2987,3727
+windflower wreath,5436,228,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,3723,3709,3713,65534,65534,65534
+cool windflower wreath,5746,441,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,3717,3720,3709,65534,65534,65534
+chic windflower wreath,5765,440,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,3727,65534,65534,65534,65534,65534
+mum wreath,5467,231,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,3754,3758,3768,65534,65534,65534
+fancy mum wreath,5749,443,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,3765,3762,3768,65534,65534,65534
+natural mum wreath,5768,442,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,5175,65534,65534,65534,65534,65534
+cosmos wreath,4293,227,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,2863,2305,2304,65534,65534,65534
+pretty cosmos wreath,5745,445,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,2871,2867,2304,65534,65534,65534
+chic cosmos wreath,5764,444,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2875,65534,65534,65534,65534,65534
+tulip wreath,5670,360,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,2883,2887,2879,65534,65534,65534
+pretty tulip wreath,5751,361,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,2895,2891,2899,65534,65534,65534
+dark tulip wreath,5771,362,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2903,65534,65534,65534,65534,65534
+rose wreath,5437,229,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,2935,2931,2939,65534,65534,65534
+fancy rose wreath,5747,448,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,2947,2943,2939,65534,65534,65534
+dark rose wreath,5766,446,14,_UNK_,_UNK_,All Villagers,200,3,6,0,0,0,0,2955,2951,65534,65534,65534,65534
+blue rose wreath,5772,447,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2959,65534,65534,65534,65534,65534
+gold rose wreath,5820,449,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2963,65534,65534,65534,65534,65534
+pansy wreath,5466,230,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,2915,2907,2911,65534,65534,65534
+snazzy pansy wreath,5748,451,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,2919,2927,2915,65534,65534,65534
+cool pansy wreath,5767,450,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2923,65534,65534,65534,65534,65534
+hyacinth wreath,5468,232,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,3730,3744,3734,65534,65534,65534
+cool hyacinth wreath,5750,453,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,3741,3748,3738,65534,65534,65534
+purple hyacinth wreath,5769,452,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,3751,65534,65534,65534,65534,65534
+lily wreath,5641,438,14,_UNK_,_UNK_,All Villagers,50,3,3,3,0,0,0,2979,2983,2987,65534,65534,65534
+fancy lily wreath,5677,455,14,_UNK_,_UNK_,All Villagers,100,3,3,3,0,0,0,2995,2991,2987,65534,65534,65534
+dark lily wreath,5770,454,14,_UNK_,_UNK_,All Villagers,200,10,0,0,0,0,0,2999,65534,65534,65534,65534,65534
+windflower crown,5099,240,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,3723,3713,3709,65534,65534,65534
+cool windflower crown,5100,241,14,_UNK_,_UNK_,All Villagers,100,3,3,0,0,0,0,3717,3720,65534,65534,65534,65534
+purple windflower crown,5101,242,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,3727,65534,65534,65534,65534,65534
+mum crown,5117,258,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,3768,3758,3754,65534,65534,65534
+chic mum crown,5118,259,14,_UNK_,_UNK_,All Villagers,100,3,3,0,0,0,0,3762,3765,65534,65534,65534,65534
+simple mum crown,5119,260,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,5175,65534,65534,65534,65534,65534
+cosmos crown,5108,249,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,2304,2863,2305,65534,65534,65534
+lovely cosmos crown,5109,250,14,_UNK_,_UNK_,All Villagers,100,4,3,0,0,0,0,2867,2871,65534,65534,65534,65534
+dark cosmos crown,5110,251,14,_UNK_,_UNK_,All Villagers,200,7,0,0,0,0,0,2875,65534,65534,65534,65534,65534
+tulip crown,5102,243,14,_UNK_,_UNK_,All Villagers,0,2,2,1,0,0,0,2883,2887,2879,65534,65534,65534
+chic tulip crown,5103,244,14,_UNK_,_UNK_,All Villagers,100,2,2,1,0,0,0,2899,2891,2895,65534,65534,65534
+dark tulip crown,5104,245,14,_UNK_,_UNK_,All Villagers,200,5,0,0,0,0,0,2903,65534,65534,65534,65534,65534
+rose crown,5111,252,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,2935,2939,2931,65534,65534,65534
+cute rose crown,5112,253,14,_UNK_,_UNK_,All Villagers,100,3,3,0,0,0,0,2943,2947,65534,65534,65534,65534
+chic rose crown,5113,254,14,_UNK_,_UNK_,All Villagers,200,3,3,0,0,0,0,2951,2955,65534,65534,65534,65534
+blue rose crown,7377,459,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,2959,65534,65534,65534,65534,65534
+gold rose crown,7378,460,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,2963,65534,65534,65534,65534,65534
+pansy crown,5105,246,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,2911,2915,2907,65534,65534,65534
+cool pansy crown,5106,247,14,_UNK_,_UNK_,All Villagers,100,3,3,0,0,0,0,2919,2927,65534,65534,65534,65534
+purple pansy crown,5107,248,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,2923,65534,65534,65534,65534,65534
+hyacinth crown,5096,237,14,_UNK_,_UNK_,All Villagers,0,4,2,2,0,0,0,3744,3734,3730,65534,65534,65534
+cool hyacinth crown,5097,238,14,_UNK_,_UNK_,All Villagers,100,4,2,2,0,0,0,3748,3738,3741,65534,65534,65534
+purple hyacinth crown,5098,239,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,3751,65534,65534,65534,65534,65534
+lily crown,5114,255,14,_UNK_,_UNK_,All Villagers,0,2,2,2,0,0,0,2983,2987,2979,65534,65534,65534
+cute lily crown,5115,256,14,_UNK_,_UNK_,All Villagers,100,2,2,2,0,0,0,2991,2995,2979,65534,65534,65534
+dark lily crown,5116,257,14,_UNK_,_UNK_,All Villagers,200,6,0,0,0,0,0,2999,65534,65534,65534,65534,65534
+windflower wand,5084,525,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3713,5983,65534,65534,65534,65534
+mums wand,5095,531,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3758,5983,65534,65534,65534,65534
+cosmos wand,5092,528,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,2305,5983,65534,65534,65534,65534
+tulip wand,5085,526,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,2883,5983,65534,65534,65534,65534
+rose wand,5093,529,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,2935,5983,65534,65534,65534,65534
+pansy wand,5091,527,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,2915,5983,65534,65534,65534,65534
+hyacinth wand,5083,524,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,3738,5983,65534,65534,65534,65534
+lily wand,5094,530,14,_UNK_,_UNK_,Not from Villagers,0,1,3,0,0,0,0,2979,5983,65534,65534,65534,65534
