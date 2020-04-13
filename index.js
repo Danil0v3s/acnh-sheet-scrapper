@@ -1,17 +1,18 @@
-Promise = require('bluebird');
-const { mongo } = require('./config/vars');
-const MongoClient = require('mongodb').MongoClient;
-const scrapper = require('./scrapper');
+// make bluebird default Promise
+Promise = require('bluebird'); // eslint-disable-line no-global-assign
+const { port, env } = require('./config/vars');
+const logger = require('./config/logger');
+const app = require('./config/express');
+const mongoose = require('./config/mongoose');
 
+// open mongoose connection
+mongoose.connect();
 
-MongoClient.connect(mongo.uri, function (err, client) {
-    if (err) throw err;
+// listen to requests
+app.listen(port, () => logger.info(`server started on port ${port} (${env})`));
 
-    // client.db('nookcommunity').collection('items').deleteMany(function (err, obj) {
-    //     if (err) throw err;
-    //     console.log(obj.result.n + " document(s) deleted");
-    //     client.close();
-    // })
-
-    scrapper.scrapeLocalFiles(client);
-});
+/**
+* Exports express
+* @public
+*/
+module.exports = app;
