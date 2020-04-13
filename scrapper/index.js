@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const allItemsJson = require('./files/items.json');
-const { camelCase, zipObject, groupBy, keyBy, mapValues } = require('lodash');
+const { camelCase, zipObject, keyBy, mapValues } = require('lodash');
 
 const transformCsv = location => {
     const file = fs.readFileSync(path.join(__dirname, location), 'utf8').split('\n');
