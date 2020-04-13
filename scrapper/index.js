@@ -3,6 +3,7 @@ const cheerio = require('cheerio');
 const axios = require('axios');
 const path = require('path');
 const fs = require('fs');
+const allItemsJson = require('./files/items.json');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 const { camelCase, zipObject, groupBy } = require('lodash');
 const { googleApiKey, sourceSheetId } = require('../config/vars');
@@ -65,6 +66,14 @@ const parseRawData = rawData => {
     fetchVariants(parsed)
 }
 
+const transformCsv = location => {
+    const file = fs.readFileSync(path.join(__dirname, location), 'utf8').split('\n');
+    const keys = file.shift().split(',').map(key => camelCase(key));
+    const rows = file.slice(1).map(row => row.split(','));
+
+    return rows.map(row => zipObject(keys, row));
+}
+
 exports.scrapeGoogleDocs = async () => {
     await doc.useApiKey(googleApiKey);
     await doc.loadInfo();
@@ -94,12 +103,10 @@ exports.scrapeGoogleDocs = async () => {
 }
 
 exports.scrapeLocalFiles = async () => {
-    const ItemParam = fs.readFileSync(path.join(__dirname, 'files/ItemParam.csv'), 'utf8').split('\n');
-    const keys = ItemParam.shift().split(',').map(key => camelCase(key));
-    const rows = ItemParam.slice(1).map(row => row.split(','));
+    const recipes = transformCsv('files/Recipes.csv');
+    const fullItemDetails = transformCsv('files/ItemParam.csv');
+    const catchPhrasesFish = transformCsv('files/SYS_Get_Fish.csv');
+    const catchPhrasesInsect = transformCsv('files/SYS_Get_Insect.csv');
 
-    const json = rows.map(row => zipObject(keys, row));
-    const categories = groupBy(json, 'category3');
-
-    json.length
+    const categories = groupBy(fullItemDetails, 'category3');
 }
