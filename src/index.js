@@ -1,40 +1,60 @@
-import dotenv from 'dotenv';
-import express from 'express';
-import { ApolloServer } from 'apollo-server-express';
-import mongoose from 'mongoose';
-
-import './utils/db';
-import schema from './schema';
+Promise = require('bluebird');
+const dotenv = require('dotenv-safe');
+const { GraphQLServer } = require('graphql-yoga');
+const mongoose = require('./config/mongoose');
+const User = require('./models/user');
 
 dotenv.config();
 
-const app = express();
+const typeDefs = `
+type Query {
+    getUser(id: ID!): User
+    getUsers: [User]
+}
 
-const server = new ApolloServer({
-    schema,
-    cors: true,
-    playground: process.env.NODE_ENV === 'development' ? true : false,
-    introspection: true,
-    tracing: true,
-    path: '/'
-})
+type User {
+    id: ID!,
+    name: String!
+    email: String!
+}
 
-server.applyMiddleware({
-    app,
-    path: '/',
-    cors: true,
-    onHealthCheck: () =>
-        // eslint-disable-next-line no-undef
-        new Promise((resolve, reject) => {
-            if (mongoose.connection.readyState > 0) {
-                resolve();
-            } else {
-                reject();
-            }
-        }),
-})
+type Mutation {
+    addUser(name: String!, email: String!): User!
+    deleteUser(id: ID!): String
+}
+`
 
-app.listen({ port: process.env.PORT }, () => {
-    console.log(`🚀 Server listening on port ${process.env.PORT}`);
-    console.log(`😷 Health checks available at ${process.env.HEALTH_ENDPOINT}`);
+const resolvers = {
+    Query: {
+        getUsers: () => User.find(),
+        getUser: async (_, { id }) => {
+            var result = await User.findById(id);
+            return result;
+        }
+    },
+    Mutation: {
+        addUser: async (_, { name, email }) => {
+            const user = new User({ name, email });
+            await user.save();
+            return user;
+        },
+        deleteUser: async (_, { id }) => {
+            await User.findByIdAndRemove(id);
+            return "User deleted";
+        }
+    }
+}
+
+const server = new GraphQLServer({ typeDefs, resolvers });
+const connection = mongoose.connect();
+connection.once("open", () => {
+    server.start({
+        cors: true,
+        tracing: true,
+        port: process.env.PORT,
+        playground: process.env.NODE_ENV === 'development' ? '/playground' : false,
+        introspection: true,
+        tracing: true,
+        path: '/'
+    }, () => console.log('Server is running on localhost:4000'))
 })

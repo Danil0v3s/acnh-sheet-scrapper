@@ -1,6 +1,4 @@
 import mongoose, { Schema } from 'mongoose';
-import timestamps from 'mongoose-timestamp';
-import { composeWithMongoose } from 'graphql-compose-mongoose';
 
 export const TaskSchema = new Schema(
     {
@@ -29,4 +27,3 @@ TaskSchema.plugin(timestamps);
 TaskSchema.index({ createdAt: 1, updatedAt: 1 });
 
 export const Task = mongoose.model('Task', TaskSchema);
-export const TaskTC = composeWithMongoose(Task);
