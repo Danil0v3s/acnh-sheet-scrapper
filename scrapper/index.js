@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const allItemsJson = require('./files/items.json');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const { camelCase, zipObject, groupBy, map } = require('lodash');
+const { camelCase, zipObject, groupBy, map, keyBy, mapValues } = require('lodash');
 const { googleApiKey, sourceSheetId } = require('../config/vars');
 
 
@@ -66,16 +66,11 @@ const parseRawData = rawData => {
     fetchVariants(parsed)
 }
 
-const transformCsv = (location, kind = 'array') => {
+const transformCsv = location => {
     const file = fs.readFileSync(path.join(__dirname, location), 'utf8').split('\n');
     const keys = file.shift().split(',').map(key => camelCase(key));
     const rows = file.slice(1).map(row => row.split(','));
-    const arr = rows.map(row => zipObject(keys, row));
-    if (kind == 'object') {
-        return zipObject(map(arr, 'primaryKey'), map(arr, 'ingameName'))
-    }
-
-    return arr
+    return rows.map(row => zipObject(keys, row));
 }
 
 const mapCatchAndMuseumPhrases = json => {
@@ -86,6 +81,55 @@ const mapCatchAndMuseumPhrases = json => {
             name: obj.name['name-en'],
             catchPhrase: obj['catch-phrase'],
             museumPhrase: obj['museum-phrase']
+        }
+    })
+}
+
+const fillItemsData = (items, fullItemDetails, recipes) => {
+    const catchPhrasesFish = mapCatchAndMuseumPhrases(require('./files/fish_phrases.json'));
+    const catchPhrasesInsect = mapCatchAndMuseumPhrases(require('./files/bugs_phrases.json'));
+    const fiDetailsArray = fullItemDetails.map(({ primaryKey, size, ingameName, category }) => ({ primaryKey, size, ingameName: camelCase(ingameName), category }));
+    const fiDetails = mapValues(keyBy(fiDetailsArray, 'ingameName'));
+    const recipesObject = mapValues(keyBy(recipes, 'itemId'));
+
+    items.forEach(item => {
+        const fullDetail = fiDetails[camelCase(item.name)];
+        if (fullDetail) {
+            item.id = fullDetail.primaryKey;
+            item.size = fullDetail.size;
+
+            if (item.category == "Bugs" || item.category == "Fish") {
+                const arr = item.category == "Bugs" ? catchPhrasesInsect : catchPhrasesFish
+                try {
+                    const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0]
+                    item.catchPhrase = catchPhrase
+                    item.museumPhrase = museumPhrase
+                } catch (e) {
+                    console.log(e, item.name)
+                }
+            }
+
+            if (item.dIY) {
+                item.recipe = recipesObject[item.id];
+            }
+        }
+    });
+}
+
+const parseRecipes = (recipesRaw, fullItemDetails) => {
+    const materialRef = zipObject(map(fullItemDetails, 'primaryKey'), map(fullItemDetails, 'ingameName'));
+
+    return recipesRaw.map(recipe => {
+        const qtyKeys = Object.keys(recipe).slice(8, 14).map(key => Number(recipe[key]));
+        const idKeys = Object.keys(recipe).slice(14).map(key => recipe[key]);
+        const materials = qtyKeys.filter(qty => qty > 0).map((qty, i) => {
+            const materialId = idKeys[i]
+            return { qty: qty, materialId, materialName: materialRef[materialId] }
+        });
+
+        return {
+            itemId: recipe.itemId,
+            materials
         }
     })
 }
@@ -119,31 +163,12 @@ exports.scrapeGoogleDocs = async () => {
 }
 
 exports.scrapeLocalFiles = async () => {
-    const recipes = transformCsv('files/Recipes.csv');
-    const materials = transformCsv('files/Materials.csv', 'object');
     const fullItemDetails = transformCsv('files/ItemParam.csv');
-    const catchPhrasesFish = mapCatchAndMuseumPhrases(require('./files/fish_phrases.json'));
-    const catchPhrasesInsect = mapCatchAndMuseumPhrases(require('./files/bugs_phrases.json'));
+    const recipesRaw = transformCsv('files/Recipes.csv');
     const items = allItemsJson.results;
+    const recipes = parseRecipes(recipesRaw, fullItemDetails);
 
-    items.forEach(item => {
-        const fullDetail = fullItemDetails.filter(i => camelCase(i.ingameName) == camelCase(item.name));
-        if (fullDetail.length == 1) {
-            item.id = fullDetail[0].primaryKey;
-            item.size = fullDetail[0].size;
-
-            if (item.category == "Bugs" || item.category == "Fish") {
-                const arr = item.category == "Bugs" ? catchPhrasesInsect : catchPhrasesFish
-                try {
-                    const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0]
-                    item.catchPhrase = catchPhrase
-                    item.museumPhrase = museumPhrase
-                } catch (e) {
-                    console.log(e, item.name)
-                }
-            }
-        }
-    });
+    fillItemsData(items, fullItemDetails, recipes);
 
     items.length
 }
