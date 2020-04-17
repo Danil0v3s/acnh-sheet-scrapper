@@ -50,7 +50,7 @@ const fillItemsData = (items, fullItemDetails) => {
 
 exports.scrapeLocalFiles = async (mongoClient) => {
     console.log('Starting parse');
-    const mongoCollection = mongoClient.db('nookcommunity').collection('items');
+    const mongoCollection = mongoClient.db('nooksales').collection('collectibles');
     const fullItemDetails = transformCsv('files/ItemParam.csv');
     const items = allItemsJson.results;
 
@@ -58,4 +58,5 @@ exports.scrapeLocalFiles = async (mongoClient) => {
 
     console.log('Parse finished. Saving...');
     mongoCollection.insertMany(items);
+    process.exit(0);
 }
