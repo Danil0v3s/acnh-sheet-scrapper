@@ -4,9 +4,9 @@ const express = require('express');
 const app = express();
 const { port } = require('./config/vars');
 
-// app.get('/', async (req, res) => {
-//     // const data = await docsScrapper.init();
-//     res.send('hello');
-// })
+app.get('/', async (req, res) => {
+    const data = await docsScrapper.init();
+    res.send(data);
+})
 
-app.listen(port, () => `Started on ${port}`)
+app.listen(port, () => console.log(`Started on ${port}`))
