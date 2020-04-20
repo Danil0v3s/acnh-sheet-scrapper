@@ -2,6 +2,8 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 const { camelCase, zipObject } = require('lodash');
 const axios = require('axios');
 const { googleApiKey, sourceSheetId } = require('../config/vars');
+const fs = require("fs");
+const path = require('path');
 
 
 const doc = new GoogleSpreadsheet(sourceSheetId);
@@ -14,7 +16,14 @@ const parseRawData = rawData => {
             type,
             values: values.map(item => {
                 const { filename } = item
-                item.image = `imgs/${filename}.png`
+                item.image = `images/${filename}.png`
+                // const oldPath = path.join(__dirname, `/../public/${item.image}`)
+                // const newPath = path.join(__dirname, `/../public/images/${filename}.png`)
+                // if (fs.existsSync(oldPath)) {
+                //     fs.renameSync(oldPath, newPath)
+                //     item.ima
+                // }
+
                 return {
                     ...item
                 }
