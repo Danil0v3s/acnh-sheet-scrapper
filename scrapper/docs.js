@@ -22,7 +22,7 @@ const parseRawData = rawData => {
         }
     })
 
-    parsed.length
+    return parsed;
 }
 
 exports.init = async () => {
@@ -50,5 +50,5 @@ exports.init = async () => {
         });
     }
 
-    parseRawData(mapped);
+    return parseRawData(mapped);
 }
