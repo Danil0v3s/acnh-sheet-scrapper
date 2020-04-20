@@ -10,19 +10,26 @@ const doc = new GoogleSpreadsheet(sourceSheetId);
 
 const getUrl = (sheet, range) => `https://sheets.googleapis.com/v4/spreadsheets/${sourceSheetId}/values/${sheet}!${range}?key=${googleApiKey}&valueRenderOption=FORMULA`;
 
+const downloadImages = async (parsed) => {
+    for (category of parsed) {
+        for (item of category.values) {
+            const { filename, image } = item
+            try {
+                const url = image.split("\"")[1]
+                const response = await axios.request({ url, responseType: 'stream', method: 'get' })
+                response.data.pipe(fs.createWriteStream(path.join(__dirname, `/../public/images/${filename}.png`)));
+            } catch (e) {
+                console.log(filename)
+            }
+        }
+    }
+}
+
 const parseRawData = rawData => {
     const parsed = rawData.map(({ type, values }) => {
         return {
             type,
             values: values.map(item => {
-                const { filename } = item
-                item.image = `images/${filename}.png`
-                // const oldPath = path.join(__dirname, `/../public/${item.image}`)
-                // const newPath = path.join(__dirname, `/../public/images/${filename}.png`)
-                // if (fs.existsSync(oldPath)) {
-                //     fs.renameSync(oldPath, newPath)
-                //     item.ima
-                // }
 
                 return {
                     ...item
@@ -31,6 +38,7 @@ const parseRawData = rawData => {
         }
     })
 
+    // downloadImages(parsed)
     return parsed;
 }
 
