@@ -14,7 +14,7 @@ const parseRawData = rawData => {
             type,
             values: values.map(item => {
                 const { filename } = item
-
+                item.image = `imgs/${filename}.png`
                 return {
                     ...item
                 }

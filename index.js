@@ -4,6 +4,8 @@ const express = require('express');
 const app = express();
 const { port } = require('./config/vars');
 
+app.use(express.static('public'))
+
 app.get('/', async (req, res) => {
     const data = await docsScrapper.init();
     res.send(data);
