@@ -25,12 +25,97 @@ const downloadImages = async (parsed) => {
     }
 }
 
+const downloadImage = async (url, filePath) => {
+    try {
+        const response = await axios.request({ url, responseType: 'stream', method: 'get' })
+        response.data.pipe(fs.createWriteStream(filePath));
+    } catch (e) {
+        console.log(url)
+    }
+}
+
+const transformCsv = location => {
+    const file = fs.readFileSync(path.join(__dirname, location), 'utf8').split('\n');
+    const keys = file.shift().split(',').map(key => camelCase(key));
+    const rows = file.slice(1).map(row => row.split(','));
+    return rows.map(row => zipObject(keys, row));
+}
+
+const mapCatchAndMuseumPhrases = json => {
+    return Object.keys(json).map(key => {
+        let obj = json[key];
+        return {
+            fileName: obj['file-name'],
+            name: obj.name['name-en'],
+            catchPhrase: obj['catch-phrase'],
+            museumPhrase: obj['museum-phrase']
+        }
+    })
+}
+
+const fillItemData = (category, item) => {
+    const catchPhrasesFish = mapCatchAndMuseumPhrases(require('./files/fish_phrases.json'));
+    const catchPhrasesInsect = mapCatchAndMuseumPhrases(require('./files/bugs_phrases.json'));
+    // const fiDetailsArray = fullItemDetails.map(({ primaryKey, size, ingameName, category }) => ({ primaryKey, size, ingameName: camelCase(ingameName), category }));
+    // const fiDetails = mapValues(keyBy(fiDetailsArray, 'ingameName'));
+    item.gameCategory = category
+    let gCategory;
+    if (category == "fishSouth" || category == "fishNorth") {
+        gCategory = "fish"
+    } else if (category == "bugsNorth" || category == "bugsSouth") {
+        gCategory = "bugs"
+    }
+    if (gCategory == "bugs" || gCategory == "fish") {
+        item.gameCategory = gCategory;
+        const arr = gCategory == "bugs" ? catchPhrasesInsect : catchPhrasesFish
+        try {
+            const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0]
+            item.catchPhrase = catchPhrase
+            item.museumPhrase = museumPhrase
+        } catch (e) {
+            console.log(e, item.name)
+        }
+    }
+
+    if (item.startTime) {
+        item.startTime = item.startTime * 24
+    }
+
+    if (item.endTime) {
+        item.endTime = item.endTime * 24
+    }
+
+    if (item.house && item.house.includes('=IMAGE')) {
+        const fileName = item.house.split('/').pop().split('.').shift()
+        item.house = `images/${item.gameCategory}/${fileName}.png`
+    }
+
+    if (item.image && item.image.includes('=IMAGE')) {
+        const fileName = item.image.split('/').pop().split('.').shift()
+        item.image = `images/${item.gameCategory}/${fileName}.png`
+    }
+
+    if (item.image && item.image.includes('imgur')) {
+        const fileName = item.image.split('/').pop().split('.').shift()
+        const imagePath = `images/${item.gameCategory}`
+        item.image = `${imagePath}/${fileName}.png`
+        // const filePath = path.join(__dirname, `/../public/${item.image}`)
+        // const url = `https://i.imgur.com/${fileName}.png`
+
+        // if (!fs.existsSync(path.join(__dirname, `/../public/${imagePath}`))){
+        //     fs.mkdirSync(path.join(__dirname, `/../public/${imagePath}`));
+        // }
+
+        // downloadImage(url, filePath);
+    }
+}
+
 const parseRawData = rawData => {
     const parsed = rawData.map(({ type, values }) => {
         return {
             type,
             values: values.map(item => {
-
+                fillItemData(type, item)
                 return {
                     ...item
                 }
@@ -38,7 +123,6 @@ const parseRawData = rawData => {
         }
     })
 
-    // downloadImages(parsed)
     return parsed;
 }
 

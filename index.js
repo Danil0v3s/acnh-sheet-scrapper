@@ -6,11 +6,11 @@ const { port } = require('./config/vars');
 
 app.use(express.static('public'))
 
-// app.get('/', async (req, res) => {
-//     const data = await docsScrapper.init();
-//     res.send(data);
-// })
+app.get('/', async (req, res) => {
+    const data = await docsScrapper.init();
+    res.send(data);
+})
 
-// app.listen(port, () => console.log(`Started on ${port}`))
+app.listen(port, () => console.log(`Started on ${port}`))
 
-docsScrapper.init();
+// docsScrapper.init();
