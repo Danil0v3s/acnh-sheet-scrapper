@@ -5,9 +5,6 @@ const { googleApiKey, sourceSheetId } = require('../config/vars');
 const fs = require("fs");
 const path = require('path');
 
-
-const doc = new GoogleSpreadsheet(sourceSheetId);
-
 const getUrl = (sheet, range) => `https://sheets.googleapis.com/v4/spreadsheets/${sourceSheetId}/values/${sheet}!${range}?key=${googleApiKey}&valueRenderOption=FORMULA`;
 
 const downloadImages = async (parsed) => {
@@ -56,58 +53,39 @@ const mapCatchAndMuseumPhrases = json => {
 const fillItemData = (category, item) => {
     const catchPhrasesFish = mapCatchAndMuseumPhrases(require('./files/fish_phrases.json'));
     const catchPhrasesInsect = mapCatchAndMuseumPhrases(require('./files/bugs_phrases.json'));
-    // const fiDetailsArray = fullItemDetails.map(({ primaryKey, size, ingameName, category }) => ({ primaryKey, size, ingameName: camelCase(ingameName), category }));
-    // const fiDetails = mapValues(keyBy(fiDetailsArray, 'ingameName'));
-    item.gameCategory = category
-    let gCategory;
-    if (category == "fishSouth" || category == "fishNorth") {
-        gCategory = "fish"
-    } else if (category == "bugsNorth" || category == "bugsSouth") {
-        gCategory = "bugs"
-    }
-    if (gCategory == "bugs" || gCategory == "fish") {
-        item.gameCategory = gCategory;
-        const arr = gCategory == "bugs" ? catchPhrasesInsect : catchPhrasesFish
+    item.gameCategory = category;
+
+    if (item.gameCategory == "bugs" || item.gameCategory == "fish") {
+        const arr = item.gameCategory == "bugs" ? catchPhrasesInsect : catchPhrasesFish;
         try {
-            const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0]
-            item.catchPhrase = catchPhrase
-            item.museumPhrase = museumPhrase
+            const { catchPhrase, museumPhrase } = arr.filter(el => camelCase(el.name) == camelCase(item.name) || camelCase(el.fileName) == camelCase(item.name))[0];
+            item.catchPhrase = catchPhrase;
+            item.museumPhrase = museumPhrase;
         } catch (e) {
-            console.log(e, item.name)
+            console.log(e, item.name);
         }
     }
 
     if (item.startTime) {
-        item.startTime = item.startTime * 24
+        item.startTime = item.startTime * 24;
     }
 
     if (item.endTime) {
-        item.endTime = item.endTime * 24
+        item.endTime = item.endTime * 24;
     }
 
-    if (item.house && item.house.includes('=IMAGE')) {
-        const fileName = item.house.split('/').pop().split('.').shift()
-        item.house = `images/${item.gameCategory}/${fileName}.png`
-    }
+    Object.keys(item).forEach(key => {
+        let value = item[key];
+        try {
+            if (value.includes && value.includes("=IMAGE")) {
+                item[key] = value.split("\"")[1];
+            }
+        } catch (e) {
+            console.log(value, item);
+        }
+    });
 
-    if (item.image && item.image.includes('=IMAGE')) {
-        const fileName = item.image.split('/').pop().split('.').shift()
-        item.image = `images/${item.gameCategory}/${fileName}.png`
-    }
-
-    if (item.image && item.image.includes('imgur')) {
-        const fileName = item.image.split('/').pop().split('.').shift()
-        const imagePath = `images/${item.gameCategory}`
-        item.image = `${imagePath}/${fileName}.png`
-        // const filePath = path.join(__dirname, `/../public/${item.image}`)
-        // const url = `https://i.imgur.com/${fileName}.png`
-
-        // if (!fs.existsSync(path.join(__dirname, `/../public/${imagePath}`))){
-        //     fs.mkdirSync(path.join(__dirname, `/../public/${imagePath}`));
-        // }
-
-        // downloadImage(url, filePath);
-    }
+    return item
 }
 
 const parseRawData = rawData => {
@@ -127,29 +105,47 @@ const parseRawData = rawData => {
 }
 
 exports.init = async () => {
-    await doc.useApiKey(googleApiKey);
-    await doc.loadInfo();
 
-    const sheets = doc.sheetsByIndex.slice(1);
-    const mapped = [];
-
-    for (sheet of sheets) {
-        const { title, lastColumnLetter, rowCount } = sheet;
-        const range = `A1:${lastColumnLetter}${rowCount}`;
-
-        const { data } = await axios.get(getUrl(title, range));
-        if (!data || data.values.length == 0) {
-            return;
+    const files = fs.readdirSync(path.join(__dirname, `./sheet/`))
+    if (files.length == 0) {
+        const doc = new GoogleSpreadsheet(sourceSheetId);
+        await doc.useApiKey(googleApiKey);
+        await doc.loadInfo();
+    
+        const sheets = doc.sheetsByIndex.slice(1);
+        const mapped = [];
+    
+        for (sheet of sheets) {
+            const { title, lastColumnLetter, rowCount } = sheet;
+            const range = `A1:${lastColumnLetter}${rowCount}`;
+    
+            const { data } = await axios.get(getUrl(title, range));
+            if (!data || data.values.length == 0) {
+                return;
+            }
+    
+            const keys = data.values.shift().map(key => camelCase(key == "" ? "number" : key));
+            const values = data.values;
+    
+            fs.writeFileSync(path.join(__dirname, `./sheet/${camelCase(title)}.json`), JSON.stringify({
+                type: camelCase(title),
+                values: values.map(row => zipObject(keys, row))
+            }))
+    
+            mapped.push({
+                type: camelCase(title),
+                values: values.map(row => zipObject(keys, row))
+            });
         }
-
-        const keys = data.values.shift().map(key => camelCase(key));
-        const values = data.values;
-
-        mapped.push({
-            type: camelCase(title),
-            values: values.map(row => zipObject(keys, row))
-        });
+    } else {
+        files
+        .filter(file => file.split("_").length == 1)
+        .map(file => JSON.parse(fs.readFileSync(path.join(__dirname, `./sheet/${file}`), 'utf8')))
+        .map(category => {
+            return {
+                ...category,
+                values: category.values.map(item => fillItemData(category.type, item))
+            }
+        }).forEach(category => fs.writeFileSync(path.join(__dirname, `./parsed/${camelCase(category.type)}.json`), JSON.stringify(category.values)))
     }
-
-    return parseRawData(mapped);
 }

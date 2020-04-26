@@ -13,4 +13,4 @@ app.get('/', async (req, res) => {
 
 app.listen(port, () => console.log(`Started on ${port}`))
 
-// docsScrapper.init();
+docsScrapper.init();
